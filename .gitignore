@@ -6,4 +6,3 @@ venv/
 .vscode/
 *.tmp
 logs/
-config/

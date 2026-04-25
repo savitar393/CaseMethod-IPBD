@@ -76,8 +76,9 @@ x-airflow-common:
     _PIP_ADDITIONAL_REQUIREMENTS: ''
     # The following line can be used to set a custom config file, stored in the local config folder
     AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
-    AIRFLOW_CONN_BLUESKY_POSTGRES: postgresql+psycopg2://airflow:airflow@postgres/airflow
-    BLUESKY_ACTOR: ${BLUESKY_ACTOR:-bsky.app}
+    AIRFLOW_CONN_PANGANWATCH_POSTGRES: postgresql://pangan_user:user123@postgres:5432/panganwatch
+
+    DATABASE_URL: postgresql+psycopg2://pangan_user:user123@postgres:5432/panganwatch
 
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
@@ -95,26 +96,29 @@ x-airflow-common:
 services:
   postgres:
     image: postgres:16
+    container_name: panganwatch_postgres
     environment:
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d
     healthcheck:
-      test: ["CMD", "pg_isready", "-U", "airflow"]
+      test: ["CMD-SHELL", "pg_isready -U airflow -d airflow"]
       interval: 10s
       retries: 5
       start_period: 5s
     restart: always
     ports:
-      - "5432:5432"
+      - "5433:5432"
 
   pgadmin:
     image: dpage/pgadmin4:8
+    container_name: panganwatch_pgadmin
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@admin.com
-      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_DEFAULT_EMAIL: admin@panganwatch.com
+      PGADMIN_DEFAULT_PASSWORD: admin123
     ports:
       - "5050:80"
     depends_on:

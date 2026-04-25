@@ -1,0 +1,31 @@
+price_date,province_name,city_name,commodity_name,unit,price,source
+2026-04-01,Jawa Barat,Bandung,Beras Medium,kg,13500,Sample Data
+2026-04-02,Jawa Barat,Bandung,Beras Medium,kg,13600,Sample Data
+2026-04-03,Jawa Barat,Bandung,Beras Medium,kg,13700,Sample Data
+2026-04-04,Jawa Barat,Bandung,Beras Medium,kg,14000,Sample Data
+2026-04-05,Jawa Barat,Bandung,Beras Medium,kg,14500,Sample Data
+2026-04-01,Jawa Barat,Bandung,Cabai Rawit Merah,kg,42000,Sample Data
+2026-04-02,Jawa Barat,Bandung,Cabai Rawit Merah,kg,43000,Sample Data
+2026-04-03,Jawa Barat,Bandung,Cabai Rawit Merah,kg,46000,Sample Data
+2026-04-04,Jawa Barat,Bandung,Cabai Rawit Merah,kg,50000,Sample Data
+2026-04-05,Jawa Barat,Bandung,Cabai Rawit Merah,kg,56000,Sample Data
+2026-04-01,Jawa Tengah,Semarang,Beras Medium,kg,13200,Sample Data
+2026-04-02,Jawa Tengah,Semarang,Beras Medium,kg,13300,Sample Data
+2026-04-03,Jawa Tengah,Semarang,Beras Medium,kg,13400,Sample Data
+2026-04-04,Jawa Tengah,Semarang,Beras Medium,kg,13500,Sample Data
+2026-04-05,Jawa Tengah,Semarang,Beras Medium,kg,13700,Sample Data
+2026-04-01,Jawa Tengah,Semarang,Cabai Rawit Merah,kg,39000,Sample Data
+2026-04-02,Jawa Tengah,Semarang,Cabai Rawit Merah,kg,40000,Sample Data
+2026-04-03,Jawa Tengah,Semarang,Cabai Rawit Merah,kg,41000,Sample Data
+2026-04-04,Jawa Tengah,Semarang,Cabai Rawit Merah,kg,45000,Sample Data
+2026-04-05,Jawa Tengah,Semarang,Cabai Rawit Merah,kg,48000,Sample Data
+2026-04-01,DKI Jakarta,Jakarta,Beras Medium,kg,13800,Sample Data
+2026-04-02,DKI Jakarta,Jakarta,Beras Medium,kg,13900,Sample Data
+2026-04-03,DKI Jakarta,Jakarta,Beras Medium,kg,14100,Sample Data
+2026-04-04,DKI Jakarta,Jakarta,Beras Medium,kg,14200,Sample Data
+2026-04-05,DKI Jakarta,Jakarta,Beras Medium,kg,14300,Sample Data
+2026-04-01,DKI Jakarta,Jakarta,Cabai Rawit Merah,kg,45000,Sample Data
+2026-04-02,DKI Jakarta,Jakarta,Cabai Rawit Merah,kg,47000,Sample Data
+2026-04-03,DKI Jakarta,Jakarta,Cabai Rawit Merah,kg,51000,Sample Data
+2026-04-04,DKI Jakarta,Jakarta,Cabai Rawit Merah,kg,58000,Sample Data
+2026-04-05,DKI Jakarta,Jakarta,Cabai Rawit Merah,kg,65000,Sample Data
