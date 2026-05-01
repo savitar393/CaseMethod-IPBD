@@ -6,3 +6,5 @@ venv/
 .vscode/
 *.tmp
 logs/
+data/processed/
+data/raw/

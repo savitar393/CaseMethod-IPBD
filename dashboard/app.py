@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 from sqlalchemy import create_engine
 
-DATABASE_URL = "postgresql+psycopg2://pangan_user:user123@localhost:5433/panganwatch"
+DATABASE_URL = "postgresql+psycopg2://pangan_user:user123@localhost:5434/panganwatch"
 engine = create_engine(DATABASE_URL)
 
 
@@ -48,6 +48,10 @@ df = load_data()
 
 # Sidebar filters
 st.sidebar.header("Filter Data")
+
+if st.sidebar.button("Refresh Data"):
+    st.cache_data.clear()
+    st.rerun()
 
 commodity_options = sorted(df["commodity_name"].unique())
 province_options = sorted(df["province_name"].unique())

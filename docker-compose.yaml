@@ -76,15 +76,25 @@ x-airflow-common:
     _PIP_ADDITIONAL_REQUIREMENTS: ''
     # The following line can be used to set a custom config file, stored in the local config folder
     AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
-    AIRFLOW_CONN_PANGANWATCH_POSTGRES: postgresql://pangan_user:user123@postgres:5432/panganwatch
+    AIRFLOW_CONN_PANGANWATCH_POSTGRES: postgresql://pangan_user:user123@pangan-postgres:5432/panganwatch
 
-    DATABASE_URL: postgresql+psycopg2://pangan_user:user123@postgres:5432/panganwatch
+    PANGAN_DATABASE_URL: postgresql+psycopg2://pangan_user:user123@pangan-postgres:5432/panganwatch
+    DATABASE_URL: postgresql+psycopg2://pangan_user:user123@pangan-postgres:5432/panganwatch
+
+    MINIO_ENDPOINT: http://minio:9000
+    MINIO_ACCESS_KEY: minioadmin
+    MINIO_SECRET_KEY: minioadmin
+    MINIO_BUCKET: pangan-raw
+    PIPELINE_DATA_DIR: /opt/airflow/data
 
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    - ${AIRFLOW_PROJ_DIR:-.}/etl:/opt/airflow/etl
+    - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
+    - ${AIRFLOW_PROJ_DIR:-.}/sql:/opt/airflow/sql
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -92,18 +102,21 @@ x-airflow-common:
       condition: service_healthy
     postgres:
       condition: service_healthy
+    pangan-postgres:
+      condition: service_healthy
+    minio:
+      condition: service_healthy
 
 services:
   postgres:
     image: postgres:16
-    container_name: panganwatch_postgres
+    container_name: panganwatch_airflow_postgres
     environment:
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
-      - ./sql:/docker-entrypoint-initdb.d
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U airflow -d airflow"]
       interval: 10s
@@ -112,6 +125,25 @@ services:
     restart: always
     ports:
       - "5433:5432"
+
+  pangan-postgres:
+    image: postgres:16
+    container_name: panganwatch_app_postgres
+    environment:
+      POSTGRES_USER: pangan_user
+      POSTGRES_PASSWORD: user123
+      POSTGRES_DB: panganwatch
+    volumes:
+      - pangan-postgres-data:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pangan_user -d panganwatch"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    restart: always
+    ports:
+      - "5434:5432"
 
   pgadmin:
     image: dpage/pgadmin4:8
@@ -140,6 +172,38 @@ services:
       retries: 50
       start_period: 30s
     restart: always
+
+  minio:
+    image: minio/minio
+    container_name: panganwatch_minio
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio-data:/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: always
+
+  minio-init:
+    image: minio/mc
+    container_name: panganwatch_minio_init
+    depends_on:
+      minio:
+        condition: service_healthy
+    entrypoint: >
+      /bin/sh -c "
+      mc alias set local http://minio:9000 minioadmin minioadmin;
+      mc mb --ignore-existing local/pangan-raw;
+      exit 0;
+      "
 
   airflow-apiserver:
     <<: *airflow-common
@@ -357,4 +421,6 @@ services:
 
 volumes:
   postgres-db-volume:
+  pangan-postgres-data:
   pgadmin-data:
+  minio-data:

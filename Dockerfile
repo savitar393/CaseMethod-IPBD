@@ -5,5 +5,7 @@ USER airflow
 RUN pip install --no-cache-dir \
     psycopg2-binary \
     pandas \
+    sqlalchemy \
     requests \
-    beautifulsoup4
+    beautifulsoup4 \
+    boto3

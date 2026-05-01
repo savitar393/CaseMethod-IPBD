@@ -1,33 +1,131 @@
+import os
+from pathlib import Path
+
+import boto3
 import pandas as pd
 from sqlalchemy import create_engine, text
 
-import os
 
 DATABASE_URL = os.getenv(
-    "DATABASE_URL",
-    "postgresql+psycopg2://pangan_user:user123@localhost:5434/panganwatch"
+    "PANGAN_DATABASE_URL",
+    "postgresql+psycopg2://pangan_user:pangan_pass@localhost:5432/panganwatch"
 )
-CSV_PATH = "data/sample_food_price.csv"
 
-engine = create_engine(DATABASE_URL)
+MINIO_ENDPOINT = os.getenv("MINIO_ENDPOINT", "http://localhost:9000")
+MINIO_ACCESS_KEY = os.getenv("MINIO_ACCESS_KEY", "minioadmin")
+MINIO_SECRET_KEY = os.getenv("MINIO_SECRET_KEY", "minioadmin")
+MINIO_BUCKET = os.getenv("MINIO_BUCKET", "pangan-raw")
+
+DATA_DIR = Path(os.getenv("PIPELINE_DATA_DIR", "/opt/airflow/data"))
+if not DATA_DIR.exists():
+    DATA_DIR = Path("data")
+
+LOCAL_SOURCE_FILE = DATA_DIR / "sample_food_price.csv"
+RAW_LOCAL_FILE = DATA_DIR / "raw" / "food_price_raw.csv"
+PROCESSED_LOCAL_FILE = DATA_DIR / "processed" / "food_price_processed.csv"
+
+RAW_OBJECT_KEY = "raw/food_price_raw.csv"
+PROCESSED_OBJECT_KEY = "processed/food_price_processed.csv"
+
+
+def get_engine():
+    return create_engine(DATABASE_URL)
+
+
+def get_s3_client():
+    return boto3.client(
+        "s3",
+        endpoint_url=MINIO_ENDPOINT,
+        aws_access_key_id=MINIO_ACCESS_KEY,
+        aws_secret_access_key=MINIO_SECRET_KEY,
+        region_name="us-east-1"
+    )
+
+
+def ensure_minio_bucket():
+    s3 = get_s3_client()
+
+    try:
+        s3.head_bucket(Bucket=MINIO_BUCKET)
+    except Exception:
+        s3.create_bucket(Bucket=MINIO_BUCKET)
+
+    return s3
+
+
+def extract_to_minio():
+    """
+    Extract stage:
+    Take the source CSV and upload it to MinIO as raw data.
+    """
+    if not LOCAL_SOURCE_FILE.exists():
+        raise FileNotFoundError(f"Source file not found: {LOCAL_SOURCE_FILE}")
+
+    RAW_LOCAL_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    df = pd.read_csv(LOCAL_SOURCE_FILE)
+    df.to_csv(RAW_LOCAL_FILE, index=False)
+
+    s3 = ensure_minio_bucket()
+    s3.upload_file(str(RAW_LOCAL_FILE), MINIO_BUCKET, RAW_OBJECT_KEY)
+
+    print(f"Raw data uploaded to MinIO: s3://{MINIO_BUCKET}/{RAW_OBJECT_KEY}")
 
 
 def clean_data(df: pd.DataFrame) -> pd.DataFrame:
-    df["price_date"] = pd.to_datetime(df["price_date"]).dt.date
-    df["province_name"] = df["province_name"].str.strip()
-    df["city_name"] = df["city_name"].str.strip()
-    df["commodity_name"] = df["commodity_name"].str.strip()
-    df["unit"] = df["unit"].str.strip()
-    df["source"] = df["source"].str.strip()
+    """
+    Transform stage:
+    Clean date, region, commodity, unit, source, and price columns.
+    """
+    df["price_date"] = pd.to_datetime(df["price_date"], errors="coerce").dt.date
+
+    df["province_name"] = df["province_name"].astype(str).str.strip()
+    df["city_name"] = df["city_name"].fillna("Unknown").astype(str).str.strip()
+    df["commodity_name"] = df["commodity_name"].astype(str).str.strip()
+    df["unit"] = df["unit"].astype(str).str.strip()
+    df["source"] = df["source"].astype(str).str.strip()
+
     df["price"] = pd.to_numeric(df["price"], errors="coerce")
 
-    df = df.dropna(subset=["price_date", "province_name", "commodity_name", "price"])
+    df = df.dropna(
+        subset=[
+            "price_date",
+            "province_name",
+            "city_name",
+            "commodity_name",
+            "price"
+        ]
+    )
+
     df = df.drop_duplicates()
 
     return df
 
 
+def transform_from_minio():
+    """
+    Transform stage:
+    Download raw data from MinIO, clean it, save processed CSV,
+    then upload processed data back to MinIO.
+    """
+    RAW_LOCAL_FILE.parent.mkdir(parents=True, exist_ok=True)
+    PROCESSED_LOCAL_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    s3 = ensure_minio_bucket()
+    s3.download_file(MINIO_BUCKET, RAW_OBJECT_KEY, str(RAW_LOCAL_FILE))
+
+    df = pd.read_csv(RAW_LOCAL_FILE)
+    df = clean_data(df)
+
+    df.to_csv(PROCESSED_LOCAL_FILE, index=False)
+    s3.upload_file(str(PROCESSED_LOCAL_FILE), MINIO_BUCKET, PROCESSED_OBJECT_KEY)
+
+    print(f"Processed data uploaded to MinIO: s3://{MINIO_BUCKET}/{PROCESSED_OBJECT_KEY}")
+
+
 def load_dimensions(df: pd.DataFrame):
+    engine = get_engine()
+
     commodities = df[["commodity_name", "unit"]].drop_duplicates()
     regions = df[["province_name", "city_name"]].drop_duplicates()
 
@@ -61,6 +159,8 @@ def load_dimensions(df: pd.DataFrame):
 
 
 def load_fact_food_price(df: pd.DataFrame):
+    engine = get_engine()
+
     with engine.begin() as conn:
         for _, row in df.iterrows():
             commodity_id = conn.execute(
@@ -98,13 +198,36 @@ def load_fact_food_price(df: pd.DataFrame):
                     "commodity_id": commodity_id,
                     "region_id": region_id,
                     "price_date": row["price_date"],
-                    "price": row["price"],
+                    "price": float(row["price"]),
                     "source": row["source"]
                 }
             )
 
 
+def load_to_postgres():
+    """
+    Load stage:
+    Load processed CSV into PostgreSQL dimension and fact tables.
+    """
+    if not PROCESSED_LOCAL_FILE.exists():
+        raise FileNotFoundError(f"Processed file not found: {PROCESSED_LOCAL_FILE}")
+
+    df = pd.read_csv(PROCESSED_LOCAL_FILE)
+    df = clean_data(df)
+
+    load_dimensions(df)
+    load_fact_food_price(df)
+
+    print("Processed data loaded to PostgreSQL.")
+
+
 def calculate_alerts():
+    """
+    Analysis stage:
+    Calculate daily price changes and assign alert status.
+    """
+    engine = get_engine()
+
     query = """
         SELECT
             f.price_date,
@@ -121,6 +244,9 @@ def calculate_alerts():
     """
 
     df = pd.read_sql(query, engine)
+    df["price_date"] = pd.to_datetime(df["price_date"])
+    df["price"] = pd.to_numeric(df["price"], errors="coerce")
+
     df["previous_price"] = df.groupby(
         ["commodity_id", "region_id"]
     )["price"].shift(1)
@@ -145,6 +271,8 @@ def calculate_alerts():
 
     with engine.begin() as conn:
         for _, row in df.iterrows():
+            price_date = row["price_date"].date()
+
             conn.execute(
                 text("""
                     INSERT INTO fact_price_alert
@@ -177,7 +305,7 @@ def calculate_alerts():
                 {
                     "commodity_id": int(row["commodity_id"]),
                     "region_id": int(row["region_id"]),
-                    "price_date": row["price_date"],
+                    "price_date": price_date,
                     "current_price": float(row["price"]),
                     "previous_price": None if pd.isna(row["previous_price"]) else float(row["previous_price"]),
                     "percentage_change": None if pd.isna(row["percentage_change"]) else float(row["percentage_change"]),
@@ -185,25 +313,15 @@ def calculate_alerts():
                 }
             )
 
+    print("Price alerts calculated.")
 
-def main():
-    print("Reading CSV...")
-    df = pd.read_csv(CSV_PATH)
 
-    print("Cleaning data...")
-    df = clean_data(df)
-
-    print("Loading dimension tables...")
-    load_dimensions(df)
-
-    print("Loading fact table...")
-    load_fact_food_price(df)
-
-    print("Calculating price alerts...")
+def run_full_pipeline():
+    extract_to_minio()
+    transform_from_minio()
+    load_to_postgres()
     calculate_alerts()
-
-    print("ETL finished successfully.")
 
 
 if __name__ == "__main__":
-    main()
+    run_full_pipeline()
