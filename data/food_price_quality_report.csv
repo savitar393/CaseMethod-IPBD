@@ -1,0 +1,9 @@
+step,rows
+raw_input,1576
+after_standardization,1576
+after_drop_missing_date_price,1576
+after_remove_invalid_commodity_names,1576
+after_remove_price_under_1000,1576
+after_remove_price_over_1000000,1576
+after_deduplication,1576
+duplicates_removed,0

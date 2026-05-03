@@ -1,0 +1,1577 @@
+price_date,province_name,city_name,commodity_name,unit,price,source,commodity_group,region_level,source_type
+2023-05-24,DKI Jakarta,Jakarta,Ayam Broiler/Ras,kg,40767.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Ayam Broiler/Ras,ekor,40477.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Bawang Merah,kg,48000.0,Berita Jakarta Info Pangan,Bawang,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Bawang Merah,kg,47391.0,Berita Jakarta Info Pangan,Bawang,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Bawang Putih,kg,39466.0,Berita Jakarta Info Pangan,Bawang,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Bawang Putih,kg,39000.0,Berita Jakarta Info Pangan,Bawang,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Beras IR 42/Pera,kg,14026.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Beras IR 42/Pera,kg,14079.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Beras IR. I (IR 64),kg,12342.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Beras IR. I (IR 64),kg,12347.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Beras IR. II (IR 64) Ramos,kg,11467.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Beras IR. II (IR 64) Ramos,kg,11494.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Beras IR. III (IR 64),kg,10585.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Beras IR. III (IR 64),kg,10640.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Beras Muncul .I,kg,12559.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Beras Muncul .I,kg,12600.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Beras Setra I/Premium,kg,13177.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Beras Setra I/Premium,kg,13145.0,Berita Jakarta Info Pangan,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Cabe Merah Besar (TW),kg,47857.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Cabe Merah Besar (TW),kg,48022.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Cabe Merah Keriting,kg,39222.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Cabe Merah Keriting,kg,39600.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Cabe Rawit Hijau,kg,45666.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Cabe Rawit Hijau,kg,44869.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Cabe Rawit Merah,kg,49363.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Cabe Rawit Merah,kg,48652.0,Berita Jakarta Info Pangan,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Daging Babi Berlemak,kg,117000.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Daging Babi Berlemak,kg,117619.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Daging Kambing,kg,145800.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Daging Kambing,kg,145370.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Daging Sapi Has (Paha Belakang),kg,145000.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Daging Sapi Has (Paha Belakang),kg,144886.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Daging Sapi Murni (Semur),kg,140111.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Daging Sapi Murni (Semur),kg,140217.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Garam Dapur,kg,3238.0,Berita Jakarta Info Pangan,Bahan Pokok Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Garam Dapur,250gr,3288.0,Berita Jakarta Info Pangan,Bahan Pokok Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Gas Elpiji 3kg,kg,21263.0,Berita Jakarta Info Pangan,Energi Rumah Tangga,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Gas Elpiji 3kg,3kg,21300.0,Berita Jakarta Info Pangan,Energi Rumah Tangga,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Gula Pasir,kg,14633.0,Berita Jakarta Info Pangan,Gula,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Gula Pasir,kg,14644.0,Berita Jakarta Info Pangan,Gula,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Ikan Bandeng (sedang),kg,41425.0,Berita Jakarta Info Pangan,Ikan,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Ikan Bandeng (sedang),kg,41365.0,Berita Jakarta Info Pangan,Ikan,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Ikan Lele,kg,27861.0,Berita Jakarta Info Pangan,Ikan,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Ikan Lele,kg,27684.0,Berita Jakarta Info Pangan,Ikan,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Ikan Mas,kg,37885.0,Berita Jakarta Info Pangan,Ikan,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Ikan Mas,kg,37702.0,Berita Jakarta Info Pangan,Ikan,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Jeruk Medan,kg,30454.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Jeruk Medan,kg,30411.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Kelapa Kupas,kg,9642.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Kelapa Kupas,butir,9674.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Kentang (sedang),kg,18033.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Kentang (sedang),kg,18119.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Margarin Blueband Cup,kg,15783.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Margarin Blueband Cup,kemasan,15868.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Margarin Blueband Sachet,kg,10322.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Margarin Blueband Sachet,kemasan,10336.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Minyak Goreng (Kuning/Curah),kg,15825.0,Berita Jakarta Info Pangan,Minyak Goreng,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Minyak Goreng (Kuning/Curah),kg,15853.0,Berita Jakarta Info Pangan,Minyak Goreng,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Semangka,kg,10941.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Semangka,kg,11000.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Susu Bubuk Bendera 400gr,kg,45200.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Susu Bubuk Bendera 400gr,krds,46000.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Susu Bubuk Dancow 400gr,kg,49000.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Susu Bubuk Dancow 400gr,krds,49111.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Susu Kental Bendera 200gr,kg,12566.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Susu Kental Bendera 200gr,klng,12619.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Susu Kental Enak 200gr,kg,10883.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Susu Kental Enak 200gr,klng,10913.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Telur Ayam Ras,kg,32122.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Telur Ayam Ras,kg,32255.0,Berita Jakarta Info Pangan,Protein Hewani,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Tepung Terigu,kg,10988.0,Berita Jakarta Info Pangan,Bahan Pokok Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Tepung Terigu,kg,11108.0,Berita Jakarta Info Pangan,Bahan Pokok Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-24,DKI Jakarta,Jakarta,Tomat Buah,kg,15600.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2023-05-25,DKI Jakarta,Jakarta,Tomat Buah,kg,15565.0,Berita Jakarta Info Pangan,Lainnya,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Bawang Merah,kg,51617.0,Info Pangan Jakarta,Bawang,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Beras IR 42/Pera,kg,16653.0,Info Pangan Jakarta,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Beras IR. I (IR 64),kg,15557.0,Info Pangan Jakarta,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Beras IR. II (IR 64) Ramos,kg,14517.0,Info Pangan Jakarta,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Beras IR. III (IR 64),kg,13980.0,Info Pangan Jakarta,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Beras Muncul .I,kg,14694.0,Info Pangan Jakarta,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Beras Setra I/Premium,kg,16390.0,Info Pangan Jakarta,Beras,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Cabe Merah Besar (TW),kg,58967.0,Info Pangan Jakarta,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Cabe Merah Keriting,kg,49950.0,Info Pangan Jakarta,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Cabe Rawit Hijau,kg,57567.0,Info Pangan Jakarta,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Cabe Rawit Merah,kg,70900.0,Info Pangan Jakarta,Cabai,Provinsi/Kota,DKI Jakarta Snapshot
+2026-05-03,DKI Jakarta,Jakarta,Minyak Goreng (Kuning/Curah),kg,21467.0,Info Pangan Jakarta,Minyak Goreng,Provinsi/Kota,DKI Jakarta Snapshot
+2026-04-27,Aceh,Aceh,Bawang Merah,kg,37000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Bawang Merah,kg,37850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Bawang Merah,kg,37600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Bawang Merah,kg,37150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Bawang Putih,kg,34750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Bawang Putih,kg,34750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Bawang Putih,kg,34900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Bawang Putih,kg,34900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Cabai Merah,kg,33350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Cabai Merah,kg,33650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Cabai Merah,kg,35000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Cabai Merah,kg,35400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Cabai Rawit,kg,32000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Cabai Rawit,kg,32250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Cabai Rawit,kg,32500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Cabai Rawit,kg,32500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Daging Ayam,kg,37200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Daging Ayam,kg,37000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Daging Ayam,kg,36850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Daging Ayam,kg,36700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Daging Sapi,kg,153350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Daging Sapi,kg,155000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Daging Sapi,kg,155000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Daging Sapi,kg,155000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Gula Pasir,kg,19800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Gula Pasir,kg,19800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Gula Pasir,kg,19800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Gula Pasir,kg,19800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Minyak Goreng,kg,22800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Minyak Goreng,kg,22800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Minyak Goreng,kg,22850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Minyak Goreng,kg,22850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Aceh,Aceh,Telur Ayam,kg,30450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Aceh,Aceh,Telur Ayam,kg,30450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Aceh,Aceh,Telur Ayam,kg,30400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Aceh,Aceh,Telur Ayam,kg,30400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Bawang Merah,kg,37200.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Bawang Merah,kg,37050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Bawang Merah,kg,36750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Bawang Merah,kg,36750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Bawang Merah,kg,36750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Bawang Putih,kg,32050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Bawang Putih,kg,31950.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Bawang Putih,kg,31900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Bawang Putih,kg,31900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Bawang Putih,kg,31900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Beras,kg,15750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Beras,kg,15750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Beras,kg,15750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Beras,kg,15750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Cabai Merah,kg,47500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Cabai Merah,kg,48000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Cabai Merah,kg,47950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Cabai Merah,kg,47850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Cabai Merah,kg,47850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Cabai Rawit,kg,53350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Cabai Rawit,kg,53150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Cabai Rawit,kg,53200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Cabai Rawit,kg,53200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Cabai Rawit,kg,53200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Daging Ayam,kg,40900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Daging Ayam,kg,41500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Daging Ayam,kg,41500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Daging Ayam,kg,41650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Daging Ayam,kg,41550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Daging Sapi,kg,134250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Daging Sapi,kg,134250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Daging Sapi,kg,134250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Daging Sapi,kg,134250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Daging Sapi,kg,134250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Minyak Goreng,kg,23050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Minyak Goreng,kg,23100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Bali,Bali,Telur Ayam,kg,30950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Bali,Bali,Telur Ayam,kg,30950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Bali,Bali,Telur Ayam,kg,30950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Bali,Bali,Telur Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Bali,Bali,Telur Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Bawang Merah,kg,48600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Bawang Merah,kg,49400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Bawang Merah,kg,49750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Bawang Merah,kg,49100.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Bawang Putih,kg,38350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Bawang Putih,kg,38350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Bawang Putih,kg,37750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Bawang Putih,kg,37750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Cabai Merah,kg,51100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Cabai Merah,kg,52650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Cabai Merah,kg,51300.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Cabai Merah,kg,52650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Cabai Rawit,kg,58000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Cabai Rawit,kg,56400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Cabai Rawit,kg,56950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Cabai Rawit,kg,56750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Daging Ayam,kg,38650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Daging Ayam,kg,38650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Daging Ayam,kg,38650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Daging Ayam,kg,38650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Daging Sapi,kg,150850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Daging Sapi,kg,150850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Daging Sapi,kg,150850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Daging Sapi,kg,150850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Banten,Banten,Telur Ayam,kg,28400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Banten,Banten,Telur Ayam,kg,28400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Banten,Banten,Telur Ayam,kg,28400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Banten,Banten,Telur Ayam,kg,28350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Bawang Merah,kg,45900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Bawang Merah,kg,46250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Bawang Merah,kg,46500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Bawang Merah,kg,46500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Bawang Merah,kg,47500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Bawang Putih,kg,38650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Bawang Putih,kg,37900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Bawang Putih,kg,37900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Bawang Putih,kg,37750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Beras,kg,15650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Cabai Merah,kg,42650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Cabai Merah,kg,43550.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Cabai Merah,kg,43650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Cabai Merah,kg,43200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Cabai Merah,kg,44000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Cabai Rawit,kg,41150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Cabai Rawit,kg,41100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Cabai Rawit,kg,40750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Cabai Rawit,kg,41250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Cabai Rawit,kg,49650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Daging Ayam,kg,36400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Daging Ayam,kg,35900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Daging Ayam,kg,35900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Daging Ayam,kg,36500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Daging Ayam,kg,36750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Daging Sapi,kg,145650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Daging Sapi,kg,145650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Daging Sapi,kg,145650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Daging Sapi,kg,145650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Gula Pasir,kg,19250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Gula Pasir,kg,19300.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Gula Pasir,kg,19400.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Minyak Goreng,kg,21850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Minyak Goreng,kg,21900.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Minyak Goreng,kg,21900.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Minyak Goreng,kg,22200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Bengkulu,Bengkulu,Telur Ayam,kg,29300.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Bengkulu,Bengkulu,Telur Ayam,kg,29550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Bengkulu,Bengkulu,Telur Ayam,kg,29550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Bengkulu,Bengkulu,Telur Ayam,kg,29550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Bengkulu,Bengkulu,Telur Ayam,kg,29600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Bawang Merah,kg,44000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Bawang Merah,kg,44000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Bawang Merah,kg,44000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Bawang Merah,kg,44000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Bawang Merah,kg,44000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Bawang Putih,kg,40750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Bawang Putih,kg,40750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Bawang Putih,kg,40750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Bawang Putih,kg,40750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Bawang Putih,kg,40750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Beras,kg,14200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Beras,kg,14200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Beras,kg,14200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Beras,kg,14200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Beras,kg,14200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Cabai Merah,kg,46000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Cabai Merah,kg,46650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Cabai Merah,kg,45400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Cabai Merah,kg,44750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Cabai Merah,kg,44750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Cabai Rawit,kg,54150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Cabai Rawit,kg,55000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Cabai Rawit,kg,55000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Cabai Rawit,kg,54150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Cabai Rawit,kg,54150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Daging Ayam,kg,34750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Daging Ayam,kg,34750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Daging Ayam,kg,35000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Daging Ayam,kg,35750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Daging Ayam,kg,35750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Gula Pasir,kg,18350.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Gula Pasir,kg,18350.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Gula Pasir,kg,18350.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Gula Pasir,kg,18350.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Gula Pasir,kg,18350.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Minyak Goreng,kg,22100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Minyak Goreng,kg,22500.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,DI Yogyakarta,DI Yogyakarta,Telur Ayam,kg,27900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,DI Yogyakarta,DI Yogyakarta,Telur Ayam,kg,27000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,DI Yogyakarta,DI Yogyakarta,Telur Ayam,kg,27000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,DI Yogyakarta,DI Yogyakarta,Telur Ayam,kg,26750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,DI Yogyakarta,DI Yogyakarta,Telur Ayam,kg,26750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Bawang Merah,kg,48250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Bawang Merah,kg,48250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Bawang Merah,kg,48250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Bawang Merah,kg,48250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Bawang Putih,kg,43350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Bawang Putih,kg,43350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Bawang Putih,kg,43350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Bawang Putih,kg,43350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Cabai Merah,kg,56200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Cabai Merah,kg,56200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Cabai Merah,kg,55400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Cabai Merah,kg,55400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Cabai Rawit,kg,58850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Cabai Rawit,kg,57150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Cabai Rawit,kg,56350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Cabai Rawit,kg,55400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Daging Ayam,kg,38700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Daging Ayam,kg,38700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Daging Ayam,kg,38700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Daging Ayam,kg,38700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Daging Sapi,kg,147500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Daging Sapi,kg,147500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Daging Sapi,kg,147500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Daging Sapi,kg,147500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Gula Pasir,kg,20150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Gula Pasir,kg,20150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Gula Pasir,kg,20150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Gula Pasir,kg,20150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Minyak Goreng,kg,23300.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Minyak Goreng,kg,23250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Minyak Goreng,kg,23250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Minyak Goreng,kg,23250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,DKI Jakarta,DKI Jakarta,Telur Ayam,kg,28600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,DKI Jakarta,DKI Jakarta,Telur Ayam,kg,28450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,DKI Jakarta,DKI Jakarta,Telur Ayam,kg,28250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,DKI Jakarta,DKI Jakarta,Telur Ayam,kg,28250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Bawang Merah,kg,45650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Bawang Merah,kg,45650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Bawang Merah,kg,46900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Bawang Merah,kg,46900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Bawang Putih,kg,42900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Bawang Putih,kg,43150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Bawang Putih,kg,42900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Bawang Putih,kg,41650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Beras,kg,15050.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Beras,kg,15050.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Beras,kg,15050.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Beras,kg,15050.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Cabai Merah,kg,40000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Cabai Merah,kg,45650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Cabai Merah,kg,45000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Cabai Merah,kg,49400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Cabai Rawit,kg,48750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Cabai Rawit,kg,48750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Cabai Rawit,kg,48150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Cabai Rawit,kg,48150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Daging Ayam,kg,36200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Daging Ayam,kg,36200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Daging Ayam,kg,36200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Daging Ayam,kg,35800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Gula Pasir,kg,21100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Gula Pasir,kg,20950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Gula Pasir,kg,20950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Gula Pasir,kg,20950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Minyak Goreng,kg,26800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Minyak Goreng,kg,26800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Minyak Goreng,kg,26800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Minyak Goreng,kg,26800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Gorontalo,Gorontalo,Telur Ayam,kg,38550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Gorontalo,Gorontalo,Telur Ayam,kg,38550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Gorontalo,Gorontalo,Telur Ayam,kg,38550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Gorontalo,Gorontalo,Telur Ayam,kg,38550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Bawang Merah,kg,38400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Bawang Merah,kg,38400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Bawang Merah,kg,37650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Bawang Merah,kg,36750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Bawang Putih,kg,33650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Bawang Putih,kg,33650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Bawang Putih,kg,33650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Bawang Putih,kg,33650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Beras,kg,15550.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Cabai Merah,kg,39600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Cabai Merah,kg,38100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Cabai Merah,kg,41000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Cabai Merah,kg,40350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Cabai Rawit,kg,48850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Cabai Rawit,kg,48400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Cabai Rawit,kg,51650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Cabai Rawit,kg,52050.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Daging Ayam,kg,30950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Daging Ayam,kg,30850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Daging Ayam,kg,30850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Daging Ayam,kg,32100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Gula Pasir,kg,19700.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Minyak Goreng,kg,23100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Minyak Goreng,kg,23100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Minyak Goreng,kg,23100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Minyak Goreng,kg,22900.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Jambi,Jambi,Telur Ayam,kg,26850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jambi,Jambi,Telur Ayam,kg,26850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jambi,Jambi,Telur Ayam,kg,26850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jambi,Jambi,Telur Ayam,kg,26850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Bawang Merah,kg,44950.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Bawang Merah,kg,45100.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Bawang Merah,kg,46050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Bawang Merah,kg,45900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Bawang Putih,kg,37300.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Bawang Putih,kg,38300.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Bawang Putih,kg,38300.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Bawang Putih,kg,38200.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Beras,kg,15100.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Beras,kg,15150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Cabai Merah,kg,52350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Cabai Merah,kg,51750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Cabai Merah,kg,50850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Cabai Merah,kg,51000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Cabai Rawit,kg,58800.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Cabai Rawit,kg,58300.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Cabai Rawit,kg,58450.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Cabai Rawit,kg,58550.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Daging Ayam,kg,37350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Daging Ayam,kg,36200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Daging Ayam,kg,36400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Daging Ayam,kg,36400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Daging Sapi,kg,146950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Daging Sapi,kg,150400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Daging Sapi,kg,150400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Daging Sapi,kg,151000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Gula Pasir,kg,19050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Gula Pasir,kg,19100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Gula Pasir,kg,19100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Gula Pasir,kg,19100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Minyak Goreng,kg,23050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Minyak Goreng,kg,22900.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Minyak Goreng,kg,22900.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Minyak Goreng,kg,22900.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Barat,Jawa Barat,Telur Ayam,kg,28100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Barat,Jawa Barat,Telur Ayam,kg,28100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Barat,Jawa Barat,Telur Ayam,kg,28050.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Barat,Jawa Barat,Telur Ayam,kg,28050.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Bawang Merah,kg,40800.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Bawang Merah,kg,41850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Bawang Merah,kg,42250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Bawang Merah,kg,42350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Bawang Merah,kg,41600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Bawang Putih,kg,33950.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Bawang Putih,kg,33650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Bawang Putih,kg,33600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Bawang Putih,kg,33600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Bawang Putih,kg,32900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Beras,kg,15350.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Beras,kg,15350.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Beras,kg,15350.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Beras,kg,15350.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Beras,kg,14950.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Cabai Merah,kg,41050.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Cabai Merah,kg,41700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Cabai Merah,kg,41700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Cabai Merah,kg,41600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Cabai Merah,kg,42200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Cabai Rawit,kg,43100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Cabai Rawit,kg,42750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Cabai Rawit,kg,43550.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Cabai Rawit,kg,43750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Cabai Rawit,kg,43650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Daging Ayam,kg,35200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Daging Ayam,kg,35400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Daging Ayam,kg,35650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Daging Ayam,kg,36200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Daging Ayam,kg,35800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Daging Sapi,kg,138150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Daging Sapi,kg,138150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Daging Sapi,kg,138150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Daging Sapi,kg,138150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Daging Sapi,kg,132250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Gula Pasir,kg,18800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Gula Pasir,kg,18800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Gula Pasir,kg,18800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Gula Pasir,kg,18750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Gula Pasir,kg,18600.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Minyak Goreng,kg,22200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Minyak Goreng,kg,22200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Minyak Goreng,kg,21750.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Tengah,Jawa Tengah,Telur Ayam,kg,26650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Tengah,Jawa Tengah,Telur Ayam,kg,26600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Tengah,Jawa Tengah,Telur Ayam,kg,26650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Tengah,Jawa Tengah,Telur Ayam,kg,26600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Tengah,Jawa Tengah,Telur Ayam,kg,26750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Bawang Merah,kg,40100.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Bawang Merah,kg,40400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Bawang Merah,kg,40650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Bawang Merah,kg,41700.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Bawang Merah,kg,40400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Bawang Putih,kg,29750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Bawang Putih,kg,29750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Bawang Putih,kg,29700.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Bawang Putih,kg,29600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Bawang Putih,kg,29350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Beras,kg,14700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Beras,kg,14700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Beras,kg,14700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Beras,kg,14700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Beras,kg,14800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Cabai Merah,kg,41650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Cabai Merah,kg,41950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Cabai Merah,kg,41950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Cabai Merah,kg,41750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Cabai Merah,kg,41750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Cabai Rawit,kg,39750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Cabai Rawit,kg,39300.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Cabai Rawit,kg,39650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Cabai Rawit,kg,40350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Cabai Rawit,kg,39900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Daging Ayam,kg,34750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Daging Ayam,kg,35150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Daging Ayam,kg,35450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Daging Ayam,kg,35850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Daging Ayam,kg,34900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Daging Sapi,kg,129500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Daging Sapi,kg,128950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Daging Sapi,kg,128950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Daging Sapi,kg,128400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Daging Sapi,kg,126450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Gula Pasir,kg,17950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Gula Pasir,kg,17950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Gula Pasir,kg,17950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Gula Pasir,kg,17900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Gula Pasir,kg,18100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Minyak Goreng,kg,22100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Minyak Goreng,kg,22150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Minyak Goreng,kg,22150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Minyak Goreng,kg,22150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Minyak Goreng,kg,22150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Jawa Timur,Jawa Timur,Telur Ayam,kg,26050.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Jawa Timur,Jawa Timur,Telur Ayam,kg,26150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Jawa Timur,Jawa Timur,Telur Ayam,kg,26250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Jawa Timur,Jawa Timur,Telur Ayam,kg,26250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Jawa Timur,Jawa Timur,Telur Ayam,kg,26700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Bawang Merah,kg,50850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Bawang Merah,kg,51100.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Bawang Merah,kg,51650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Bawang Merah,kg,50700.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Bawang Putih,kg,39600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Bawang Putih,kg,39400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Bawang Putih,kg,39400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Bawang Putih,kg,38800.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Beras,kg,16650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Beras,kg,16650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Beras,kg,16650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Beras,kg,16650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Cabai Merah,kg,56250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Cabai Merah,kg,57200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Cabai Merah,kg,56900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Cabai Merah,kg,57100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Cabai Rawit,kg,58850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Cabai Rawit,kg,59250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Cabai Rawit,kg,57800.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Cabai Rawit,kg,57150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Daging Ayam,kg,35950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Daging Ayam,kg,36150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Daging Ayam,kg,36250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Daging Ayam,kg,36250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Daging Sapi,kg,154150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Daging Sapi,kg,154150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Daging Sapi,kg,154150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Daging Sapi,kg,154150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Gula Pasir,kg,20100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Gula Pasir,kg,20100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Gula Pasir,kg,20100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Gula Pasir,kg,20100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Minyak Goreng,kg,22000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Minyak Goreng,kg,22000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Minyak Goreng,kg,22000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Minyak Goreng,kg,22000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Barat,Kalimantan Barat,Telur Ayam,kg,32300.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Barat,Kalimantan Barat,Telur Ayam,kg,31850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Barat,Kalimantan Barat,Telur Ayam,kg,31550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Barat,Kalimantan Barat,Telur Ayam,kg,31200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Bawang Merah,kg,45100.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Bawang Merah,kg,45100.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Bawang Merah,kg,44250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Bawang Merah,kg,44250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Bawang Putih,kg,36350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Bawang Putih,kg,36350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Bawang Putih,kg,36350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Bawang Putih,kg,36350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Beras,kg,18750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Beras,kg,18750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Beras,kg,18750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Beras,kg,18750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Cabai Merah,kg,45000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Cabai Merah,kg,45000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Cabai Merah,kg,44150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Cabai Merah,kg,45850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Cabai Rawit,kg,48750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Cabai Rawit,kg,48750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Cabai Rawit,kg,48150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Cabai Rawit,kg,48550.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Daging Ayam,kg,41150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Daging Ayam,kg,41150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Daging Ayam,kg,41500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Daging Ayam,kg,41500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Daging Sapi,kg,165000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Daging Sapi,kg,165000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Daging Sapi,kg,165000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Daging Sapi,kg,165000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Gula Pasir,kg,19950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Gula Pasir,kg,19950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Gula Pasir,kg,19950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Gula Pasir,kg,19950.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Minyak Goreng,kg,22050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Minyak Goreng,kg,22050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Minyak Goreng,kg,22050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Selatan,Kalimantan Selatan,Telur Ayam,kg,31500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Selatan,Kalimantan Selatan,Telur Ayam,kg,31350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Selatan,Kalimantan Selatan,Telur Ayam,kg,31350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Selatan,Kalimantan Selatan,Telur Ayam,kg,31250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Bawang Merah,kg,46400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Bawang Merah,kg,46400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Bawang Merah,kg,46400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Bawang Merah,kg,46400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Bawang Putih,kg,38250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Bawang Putih,kg,38250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Bawang Putih,kg,38250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Bawang Putih,kg,38250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Beras,kg,19300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Beras,kg,19300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Beras,kg,19300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Beras,kg,19300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Cabai Merah,kg,71600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Cabai Merah,kg,71600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Cabai Merah,kg,71600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Cabai Merah,kg,71600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Cabai Rawit,kg,72500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Cabai Rawit,kg,72500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Cabai Rawit,kg,68750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Cabai Rawit,kg,68750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Daging Ayam,kg,35400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Daging Ayam,kg,35900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Daging Ayam,kg,35900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Daging Ayam,kg,35900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Daging Sapi,kg,155350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Daging Sapi,kg,155350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Daging Sapi,kg,155350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Daging Sapi,kg,155350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Gula Pasir,kg,21050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Gula Pasir,kg,21050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Gula Pasir,kg,21050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Gula Pasir,kg,21050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Tengah,Kalimantan Tengah,Telur Ayam,kg,32800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Tengah,Kalimantan Tengah,Telur Ayam,kg,32800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Tengah,Kalimantan Tengah,Telur Ayam,kg,32600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Tengah,Kalimantan Tengah,Telur Ayam,kg,32600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Bawang Merah,kg,48350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Bawang Merah,kg,48350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Bawang Merah,kg,48350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Bawang Merah,kg,48350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Bawang Merah,kg,48150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Bawang Putih,kg,40250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Bawang Putih,kg,40250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Bawang Putih,kg,40150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Beras,kg,16200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Beras,kg,16200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Beras,kg,16200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Beras,kg,16200.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Beras,kg,16300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Cabai Merah,kg,46900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Cabai Merah,kg,46400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Cabai Merah,kg,44950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Cabai Merah,kg,44800.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Cabai Merah,kg,45050.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Cabai Rawit,kg,61750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Cabai Rawit,kg,61050.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Cabai Rawit,kg,60200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Cabai Rawit,kg,61450.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Cabai Rawit,kg,65350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Daging Ayam,kg,36350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Daging Ayam,kg,36250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Daging Ayam,kg,35550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Daging Ayam,kg,35600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Daging Ayam,kg,39300.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Daging Sapi,kg,163350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Daging Sapi,kg,163350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Daging Sapi,kg,163350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Daging Sapi,kg,163350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Daging Sapi,kg,163800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Gula Pasir,kg,19650.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Gula Pasir,kg,19650.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Gula Pasir,kg,19650.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Gula Pasir,kg,19650.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Gula Pasir,kg,19600.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Minyak Goreng,kg,22750.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Minyak Goreng,kg,22750.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Minyak Goreng,kg,22650.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Minyak Goreng,kg,22650.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Minyak Goreng,kg,22700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Timur,Kalimantan Timur,Telur Ayam,kg,31400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Timur,Kalimantan Timur,Telur Ayam,kg,31400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Timur,Kalimantan Timur,Telur Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Timur,Kalimantan Timur,Telur Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Kalimantan Timur,Kalimantan Timur,Telur Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Bawang Merah,kg,52250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Bawang Merah,kg,52250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Bawang Merah,kg,51250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Bawang Merah,kg,51250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Bawang Putih,kg,41000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Bawang Putih,kg,41000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Bawang Putih,kg,41000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Bawang Putih,kg,41000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Beras,kg,17400.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Beras,kg,17700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Beras,kg,17600.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Beras,kg,17600.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Cabai Merah,kg,66600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Cabai Merah,kg,66900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Cabai Merah,kg,65350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Cabai Merah,kg,65350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Cabai Rawit,kg,83150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Cabai Rawit,kg,84100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Cabai Rawit,kg,82200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Cabai Rawit,kg,82850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Daging Ayam,kg,46650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Daging Ayam,kg,46650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Daging Ayam,kg,45400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Daging Ayam,kg,46650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Daging Sapi,kg,160350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Daging Sapi,kg,160350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Daging Sapi,kg,160350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Daging Sapi,kg,160350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Gula Pasir,kg,19900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Gula Pasir,kg,19900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Gula Pasir,kg,19900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Gula Pasir,kg,19900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Minyak Goreng,kg,22600.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Minyak Goreng,kg,22600.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Minyak Goreng,kg,22700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Minyak Goreng,kg,22700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kalimantan Utara,Kalimantan Utara,Telur Ayam,kg,32350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kalimantan Utara,Kalimantan Utara,Telur Ayam,kg,32350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kalimantan Utara,Kalimantan Utara,Telur Ayam,kg,32350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kalimantan Utara,Kalimantan Utara,Telur Ayam,kg,32350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Merah,kg,51400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Merah,kg,51400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Merah,kg,51000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Merah,kg,51000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Putih,kg,36250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Putih,kg,36250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Putih,kg,36250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Bawang Putih,kg,36250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Merah,kg,51000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Merah,kg,51000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Merah,kg,50400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Merah,kg,50400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Rawit,kg,61500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Rawit,kg,61500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Rawit,kg,60700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Cabai Rawit,kg,60100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Ayam,kg,33400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Ayam,kg,33400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Ayam,kg,33750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Ayam,kg,34750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Sapi,kg,141600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Sapi,kg,141600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Sapi,kg,141600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Daging Sapi,kg,141600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Gula Pasir,kg,18850.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Gula Pasir,kg,19000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Gula Pasir,kg,19000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Gula Pasir,kg,19000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Minyak Goreng,kg,20400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Minyak Goreng,kg,20400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Minyak Goreng,kg,20400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Minyak Goreng,kg,20400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Telur Ayam,kg,33750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Telur Ayam,kg,33750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Telur Ayam,kg,33750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,Telur Ayam,kg,33750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Bawang Merah,kg,29850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Bawang Merah,kg,29850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Bawang Merah,kg,29850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Bawang Merah,kg,29850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Bawang Putih,kg,29250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Bawang Putih,kg,29250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Bawang Putih,kg,29250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Bawang Putih,kg,29250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Beras,kg,15500.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Beras,kg,15500.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Beras,kg,15500.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Beras,kg,15500.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Cabai Merah,kg,46350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Cabai Merah,kg,46600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Cabai Merah,kg,47950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Cabai Merah,kg,50700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Cabai Rawit,kg,59600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Cabai Rawit,kg,59700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Cabai Rawit,kg,60200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Cabai Rawit,kg,60150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Daging Ayam,kg,40500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Daging Ayam,kg,40500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Daging Ayam,kg,40500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Daging Ayam,kg,40950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Daging Sapi,kg,127500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Daging Sapi,kg,127500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Daging Sapi,kg,127500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Daging Sapi,kg,127500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Gula Pasir,kg,16800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Gula Pasir,kg,16800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Gula Pasir,kg,16800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Gula Pasir,kg,16800.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Minyak Goreng,kg,20250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Minyak Goreng,kg,20250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Minyak Goreng,kg,20250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Minyak Goreng,kg,20250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Kepulauan Riau,Kepulauan Riau,Telur Ayam,kg,29600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Kepulauan Riau,Kepulauan Riau,Telur Ayam,kg,29600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Kepulauan Riau,Kepulauan Riau,Telur Ayam,kg,29600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Kepulauan Riau,Kepulauan Riau,Telur Ayam,kg,29600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Bawang Merah,kg,40900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Bawang Merah,kg,41150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Bawang Merah,kg,41150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Bawang Merah,kg,41650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Bawang Putih,kg,34400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Bawang Putih,kg,34400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Bawang Putih,kg,34400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Bawang Putih,kg,34150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Beras,kg,14850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Beras,kg,14850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Beras,kg,14850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Beras,kg,14850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Cabai Merah,kg,44150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Cabai Merah,kg,43950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Cabai Merah,kg,45700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Cabai Merah,kg,44250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Cabai Rawit,kg,52750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Cabai Rawit,kg,54350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Cabai Rawit,kg,55600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Cabai Rawit,kg,54250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Daging Ayam,kg,33750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Daging Ayam,kg,33650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Daging Ayam,kg,33950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Daging Ayam,kg,34500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Daging Sapi,kg,132500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Daging Sapi,kg,132500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Daging Sapi,kg,132500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Daging Sapi,kg,132500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Gula Pasir,kg,19050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Gula Pasir,kg,19050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Gula Pasir,kg,19050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Gula Pasir,kg,19050.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Minyak Goreng,kg,22200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Minyak Goreng,kg,22200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Minyak Goreng,kg,22200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Lampung,Lampung,Telur Ayam,kg,28100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Lampung,Lampung,Telur Ayam,kg,28100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Lampung,Lampung,Telur Ayam,kg,27950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Lampung,Lampung,Telur Ayam,kg,27700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Bawang Merah,kg,53150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Bawang Merah,kg,53150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Bawang Merah,kg,53150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Bawang Merah,kg,53150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Bawang Putih,kg,42500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Bawang Putih,kg,42500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Bawang Putih,kg,42500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Bawang Putih,kg,42500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Beras,kg,16800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Cabai Merah,kg,64400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Cabai Merah,kg,63750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Cabai Merah,kg,63750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Cabai Merah,kg,63750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Cabai Rawit,kg,80000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Cabai Rawit,kg,80000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Cabai Rawit,kg,79400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Cabai Rawit,kg,79100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Daging Ayam,kg,47500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Daging Ayam,kg,47500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Daging Ayam,kg,47500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Daging Ayam,kg,47500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Daging Sapi,kg,149400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Daging Sapi,kg,149400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Daging Sapi,kg,148150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Daging Sapi,kg,148150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Gula Pasir,kg,21550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Gula Pasir,kg,21550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Gula Pasir,kg,21550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Gula Pasir,kg,21550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Minyak Goreng,kg,24150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Minyak Goreng,kg,24850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Maluku,Maluku,Telur Ayam,kg,37000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Maluku,Maluku,Telur Ayam,kg,37000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Maluku,Maluku,Telur Ayam,kg,37000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Maluku,Maluku,Telur Ayam,kg,37000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Bawang Merah,kg,71250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Bawang Merah,kg,72500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Bawang Merah,kg,72500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Bawang Merah,kg,65000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Bawang Putih,kg,57750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Bawang Putih,kg,59000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Bawang Putih,kg,59000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Bawang Putih,kg,54000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Beras,kg,17650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Beras,kg,17650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Beras,kg,17650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Beras,kg,17650.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Cabai Merah,kg,65000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Cabai Merah,kg,65000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Cabai Merah,kg,65000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Cabai Merah,kg,60000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Cabai Rawit,kg,117500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Cabai Rawit,kg,117500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Cabai Rawit,kg,117500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Cabai Rawit,kg,85000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Daging Ayam,kg,45500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Daging Ayam,kg,45500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Daging Ayam,kg,45500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Daging Ayam,kg,45500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Daging Sapi,kg,145000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Gula Pasir,kg,20500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Gula Pasir,kg,20500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Gula Pasir,kg,20500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Gula Pasir,kg,20500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Minyak Goreng,kg,22850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Maluku Utara,Maluku Utara,Telur Ayam,kg,44100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Maluku Utara,Maluku Utara,Telur Ayam,kg,44100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Maluku Utara,Maluku Utara,Telur Ayam,kg,44100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Maluku Utara,Maluku Utara,Telur Ayam,kg,44100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Merah,kg,38000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Merah,kg,38000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Merah,kg,39650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Merah,kg,39150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Merah,kg,39150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Putih,kg,34050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Putih,kg,34050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Putih,kg,34050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Putih,kg,34050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Bawang Putih,kg,34050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Beras,kg,13900.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Beras,kg,13900.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Beras,kg,13900.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Beras,kg,13900.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Beras,kg,13900.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Merah,kg,41500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Merah,kg,42600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Merah,kg,42450.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Merah,kg,41950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Merah,kg,41950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Rawit,kg,60950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Rawit,kg,58650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Rawit,kg,59400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Rawit,kg,59400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Cabai Rawit,kg,59400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Ayam,kg,38450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Ayam,kg,38700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Ayam,kg,38700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Ayam,kg,38950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Ayam,kg,38950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Sapi,kg,125650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Sapi,kg,125650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Sapi,kg,125650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Sapi,kg,125950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Daging Sapi,kg,125950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Gula Pasir,kg,19200.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Gula Pasir,kg,19250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Gula Pasir,kg,19250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Gula Pasir,kg,19250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Gula Pasir,kg,19250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Minyak Goreng,kg,23050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Minyak Goreng,kg,23150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Minyak Goreng,kg,23150.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Minyak Goreng,kg,23200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Minyak Goreng,kg,23200.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Barat,Nusa Tenggara Barat,Telur Ayam,kg,30200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Barat,Nusa Tenggara Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Barat,Nusa Tenggara Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Barat,Nusa Tenggara Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Barat,Nusa Tenggara Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Merah,kg,45850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Merah,kg,45850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Putih,kg,45400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Putih,kg,45400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Putih,kg,45400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Putih,kg,44600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Bawang Putih,kg,44600.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Merah,kg,59600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Merah,kg,60400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Merah,kg,58750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Merah,kg,57900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Merah,kg,57900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Rawit,kg,80850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Rawit,kg,80850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Rawit,kg,80000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Rawit,kg,80000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Cabai Rawit,kg,80000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Ayam,kg,51450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Ayam,kg,50500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Ayam,kg,51400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Ayam,kg,50100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Ayam,kg,50100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Sapi,kg,116650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Sapi,kg,116650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Sapi,kg,116650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Sapi,kg,116650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Daging Sapi,kg,116650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Gula Pasir,kg,19750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Minyak Goreng,kg,22800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Minyak Goreng,kg,22800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Minyak Goreng,kg,22800.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Minyak Goreng,kg,22850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Minyak Goreng,kg,22850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Nusa Tenggara Timur,Nusa Tenggara Timur,Telur Ayam,kg,33900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Nusa Tenggara Timur,Nusa Tenggara Timur,Telur Ayam,kg,33900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Nusa Tenggara Timur,Nusa Tenggara Timur,Telur Ayam,kg,33850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Nusa Tenggara Timur,Nusa Tenggara Timur,Telur Ayam,kg,33700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Nusa Tenggara Timur,Nusa Tenggara Timur,Telur Ayam,kg,33700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Bawang Merah,kg,69500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Bawang Merah,kg,69500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Bawang Merah,kg,70000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Bawang Merah,kg,70000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Bawang Merah,kg,70000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Bawang Putih,kg,56150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Bawang Putih,kg,56150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Bawang Putih,kg,56650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Bawang Putih,kg,56400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Bawang Putih,kg,56400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Beras,kg,19050.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Beras,kg,19100.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Beras,kg,19100.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Beras,kg,19100.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Beras,kg,19100.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Cabai Merah,kg,67050.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Cabai Merah,kg,66650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Cabai Merah,kg,67650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Cabai Merah,kg,68700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Cabai Merah,kg,68700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Cabai Rawit,kg,63000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Cabai Rawit,kg,62250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Cabai Rawit,kg,62150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Cabai Rawit,kg,65150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Cabai Rawit,kg,65150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Daging Ayam,kg,52050.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Daging Ayam,kg,52200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Daging Ayam,kg,52200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Daging Ayam,kg,52150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Daging Ayam,kg,52150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Daging Sapi,kg,157550.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Daging Sapi,kg,157800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Daging Sapi,kg,157800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Daging Sapi,kg,157800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Daging Sapi,kg,157800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Gula Pasir,kg,24250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Gula Pasir,kg,24250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Gula Pasir,kg,24250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Gula Pasir,kg,24250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Gula Pasir,kg,24250.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Minyak Goreng,kg,25350.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Minyak Goreng,kg,25350.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Minyak Goreng,kg,25350.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Minyak Goreng,kg,25350.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Minyak Goreng,kg,25350.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Papua,Papua,Telur Ayam,kg,41600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Papua,Papua,Telur Ayam,kg,41600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Papua,Papua,Telur Ayam,kg,41600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Papua,Papua,Telur Ayam,kg,41600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Papua,Papua,Telur Ayam,kg,41600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Bawang Merah,kg,61250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Bawang Merah,kg,57500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Bawang Merah,kg,57500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Bawang Merah,kg,58750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Bawang Merah,kg,58750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Bawang Putih,kg,52500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Bawang Putih,kg,51250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Bawang Putih,kg,48750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Bawang Putih,kg,48750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Bawang Putih,kg,48750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Beras,kg,16850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Beras,kg,16850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Beras,kg,16850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Beras,kg,16850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Beras,kg,16850.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Cabai Merah,kg,54400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Cabai Merah,kg,51250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Cabai Merah,kg,51250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Cabai Merah,kg,52500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Cabai Merah,kg,52500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Cabai Rawit,kg,55000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Cabai Rawit,kg,52500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Cabai Rawit,kg,52500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Cabai Rawit,kg,60000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Cabai Rawit,kg,60000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Daging Ayam,kg,54000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Daging Ayam,kg,50900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Daging Ayam,kg,49050.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Daging Ayam,kg,49900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Daging Ayam,kg,49900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Daging Sapi,kg,152500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Daging Sapi,kg,152500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Daging Sapi,kg,152500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Daging Sapi,kg,152500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Daging Sapi,kg,152500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Gula Pasir,kg,21400.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Gula Pasir,kg,21400.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Gula Pasir,kg,21400.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Gula Pasir,kg,21400.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Gula Pasir,kg,21400.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Minyak Goreng,kg,24450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Papua Barat,Papua Barat,Telur Ayam,kg,37350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Papua Barat,Papua Barat,Telur Ayam,kg,37350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Papua Barat,Papua Barat,Telur Ayam,kg,37350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Papua Barat,Papua Barat,Telur Ayam,kg,37350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Papua Barat,Papua Barat,Telur Ayam,kg,37350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Bawang Merah,kg,40050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Bawang Merah,kg,40050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Bawang Merah,kg,40050.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Bawang Merah,kg,41150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Bawang Putih,kg,34850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Bawang Putih,kg,34850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Bawang Putih,kg,34850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Bawang Putih,kg,34850.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Beras,kg,16450.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Beras,kg,16450.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Beras,kg,16450.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Beras,kg,16450.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Cabai Merah,kg,42900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Cabai Merah,kg,43100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Cabai Merah,kg,43100.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Cabai Merah,kg,42850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Cabai Rawit,kg,37400.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Cabai Rawit,kg,37200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Cabai Rawit,kg,37250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Cabai Rawit,kg,37450.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Daging Ayam,kg,31200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Daging Ayam,kg,31150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Daging Ayam,kg,31150.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Daging Ayam,kg,31050.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Daging Sapi,kg,132000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Daging Sapi,kg,132000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Daging Sapi,kg,132000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Daging Sapi,kg,132000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Gula Pasir,kg,19150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Gula Pasir,kg,19150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Gula Pasir,kg,19150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Gula Pasir,kg,19150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Minyak Goreng,kg,21850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Minyak Goreng,kg,21850.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Minyak Goreng,kg,22100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Minyak Goreng,kg,22100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Riau,Riau,Telur Ayam,kg,30850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Riau,Riau,Telur Ayam,kg,30850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Riau,Riau,Telur Ayam,kg,30850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Riau,Riau,Telur Ayam,kg,30850.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Bawang Merah,kg,42350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Bawang Merah,kg,42350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Bawang Merah,kg,42350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Bawang Merah,kg,42350.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Beras,kg,14450.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Beras,kg,14450.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Beras,kg,14500.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Beras,kg,14500.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Cabai Merah,kg,34650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Cabai Merah,kg,34650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Cabai Merah,kg,34650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Cabai Merah,kg,34650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Cabai Rawit,kg,43350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Cabai Rawit,kg,43350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Cabai Rawit,kg,43350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Cabai Rawit,kg,43350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Daging Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Daging Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Daging Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Daging Ayam,kg,30900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Daging Sapi,kg,136650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Daging Sapi,kg,136650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Daging Sapi,kg,136650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Daging Sapi,kg,136650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Gula Pasir,kg,18600.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Gula Pasir,kg,18600.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Gula Pasir,kg,18600.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Gula Pasir,kg,18600.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Minyak Goreng,kg,21600.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Minyak Goreng,kg,21600.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Minyak Goreng,kg,21600.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Minyak Goreng,kg,21600.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Barat,Sulawesi Barat,Telur Ayam,kg,28750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Barat,Sulawesi Barat,Telur Ayam,kg,28750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Barat,Sulawesi Barat,Telur Ayam,kg,28750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Barat,Sulawesi Barat,Telur Ayam,kg,28750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Bawang Merah,kg,39500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Bawang Merah,kg,39500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Bawang Merah,kg,39500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Bawang Merah,kg,38900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Bawang Merah,kg,38900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Bawang Putih,kg,37550.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Bawang Putih,kg,37550.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Bawang Putih,kg,37400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Bawang Putih,kg,37400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Bawang Putih,kg,37400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Beras,kg,14250.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Beras,kg,14250.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Beras,kg,14250.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Beras,kg,14250.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Beras,kg,14250.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Cabai Merah,kg,31950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Cabai Merah,kg,31950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Cabai Merah,kg,31350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Cabai Merah,kg,30700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Cabai Merah,kg,30700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Cabai Rawit,kg,39300.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Cabai Rawit,kg,39300.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Cabai Rawit,kg,38600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Cabai Rawit,kg,38350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Cabai Rawit,kg,38350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Daging Ayam,kg,27400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Daging Ayam,kg,27400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Daging Ayam,kg,27750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Daging Ayam,kg,27700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Daging Ayam,kg,27700.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Daging Sapi,kg,133400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Daging Sapi,kg,133400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Daging Sapi,kg,133400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Daging Sapi,kg,133400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Daging Sapi,kg,133400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Gula Pasir,kg,17550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Gula Pasir,kg,17550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Gula Pasir,kg,17550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Gula Pasir,kg,17550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Gula Pasir,kg,17550.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Minyak Goreng,kg,20700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Minyak Goreng,kg,20700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Minyak Goreng,kg,20700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Minyak Goreng,kg,20700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Minyak Goreng,kg,20700.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Selatan,Sulawesi Selatan,Telur Ayam,kg,27450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Selatan,Sulawesi Selatan,Telur Ayam,kg,27450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Selatan,Sulawesi Selatan,Telur Ayam,kg,27250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Selatan,Sulawesi Selatan,Telur Ayam,kg,27250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sulawesi Selatan,Sulawesi Selatan,Telur Ayam,kg,27250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Bawang Merah,kg,48400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Bawang Merah,kg,47750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Bawang Merah,kg,45250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Bawang Merah,kg,45250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Bawang Putih,kg,41900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Bawang Putih,kg,43150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Bawang Putih,kg,43150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Bawang Putih,kg,43150.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Beras,kg,15300.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Cabai Merah,kg,31900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Cabai Merah,kg,30850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Cabai Merah,kg,30750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Cabai Merah,kg,31050.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Cabai Rawit,kg,52200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Cabai Rawit,kg,47850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Cabai Rawit,kg,46250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Cabai Rawit,kg,45650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Daging Ayam,kg,32800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Daging Ayam,kg,32800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Daging Ayam,kg,32800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Daging Ayam,kg,31400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Daging Sapi,kg,150000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Gula Pasir,kg,21000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Gula Pasir,kg,21000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Gula Pasir,kg,21000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Gula Pasir,kg,21000.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Minyak Goreng,kg,22250.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tengah,Sulawesi Tengah,Telur Ayam,kg,34800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tengah,Sulawesi Tengah,Telur Ayam,kg,33900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tengah,Sulawesi Tengah,Telur Ayam,kg,33500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tengah,Sulawesi Tengah,Telur Ayam,kg,33250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Merah,kg,51250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Merah,kg,51250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Merah,kg,51250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Merah,kg,48750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Putih,kg,46250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Putih,kg,46250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Putih,kg,46250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Bawang Putih,kg,46250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Beras,kg,15700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Merah,kg,35950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Merah,kg,35650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Merah,kg,35650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Merah,kg,35950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Rawit,kg,39700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Rawit,kg,38450.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Rawit,kg,38450.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Cabai Rawit,kg,37850.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Daging Ayam,kg,35950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Daging Ayam,kg,35950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Daging Ayam,kg,35950.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Daging Ayam,kg,35350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Daging Sapi,kg,138750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Daging Sapi,kg,138750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Daging Sapi,kg,138750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Daging Sapi,kg,138750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Gula Pasir,kg,21100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Gula Pasir,kg,21100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Gula Pasir,kg,21100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Gula Pasir,kg,21100.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Minyak Goreng,kg,24100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Minyak Goreng,kg,24100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Minyak Goreng,kg,24100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Minyak Goreng,kg,24100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Tenggara,Sulawesi Tenggara,Telur Ayam,kg,33200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Tenggara,Sulawesi Tenggara,Telur Ayam,kg,33200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Tenggara,Sulawesi Tenggara,Telur Ayam,kg,32600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Tenggara,Sulawesi Tenggara,Telur Ayam,kg,32600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Bawang Merah,kg,46650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Bawang Putih,kg,41250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Bawang Putih,kg,41250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Bawang Putih,kg,40750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Bawang Putih,kg,40650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Beras,kg,14950.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Beras,kg,14950.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Beras,kg,14950.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Beras,kg,14950.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Cabai Merah,kg,31650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Cabai Merah,kg,29150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Cabai Merah,kg,28750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Cabai Merah,kg,28150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Cabai Rawit,kg,45350.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Cabai Rawit,kg,46600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Cabai Rawit,kg,46500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Cabai Rawit,kg,43700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Daging Ayam,kg,42000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Daging Ayam,kg,42000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Daging Ayam,kg,41400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Daging Ayam,kg,41400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Daging Sapi,kg,156250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Daging Sapi,kg,156250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Daging Sapi,kg,156250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Daging Sapi,kg,156250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Gula Pasir,kg,18500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Gula Pasir,kg,18500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Gula Pasir,kg,18500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Gula Pasir,kg,18500.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Minyak Goreng,kg,20000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Minyak Goreng,kg,20000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Minyak Goreng,kg,20000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Minyak Goreng,kg,20000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sulawesi Utara,Sulawesi Utara,Telur Ayam,kg,33450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sulawesi Utara,Sulawesi Utara,Telur Ayam,kg,33450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sulawesi Utara,Sulawesi Utara,Telur Ayam,kg,33450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sulawesi Utara,Sulawesi Utara,Telur Ayam,kg,33450.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Bawang Merah,kg,39000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Bawang Merah,kg,38750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Bawang Merah,kg,39250.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Bawang Merah,kg,39500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Bawang Merah,kg,39500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Bawang Putih,kg,33500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Bawang Putih,kg,33500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Bawang Putih,kg,33500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Bawang Putih,kg,33500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Bawang Putih,kg,33500.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Beras,kg,18150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Beras,kg,18150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Beras,kg,18150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Beras,kg,18150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Beras,kg,18150.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Cabai Merah,kg,46000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Cabai Merah,kg,46000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Cabai Merah,kg,45150.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Cabai Merah,kg,44650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Cabai Merah,kg,44650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Cabai Rawit,kg,35500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Cabai Rawit,kg,35250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Cabai Rawit,kg,35250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Cabai Rawit,kg,35750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Cabai Rawit,kg,35750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Daging Ayam,kg,50350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Daging Ayam,kg,50350.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Daging Ayam,kg,50200.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Daging Ayam,kg,49900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Daging Ayam,kg,49900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Daging Sapi,kg,150650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Gula Pasir,kg,19200.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Gula Pasir,kg,19200.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Gula Pasir,kg,19200.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Gula Pasir,kg,19200.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Gula Pasir,kg,19200.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Minyak Goreng,kg,23050.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Minyak Goreng,kg,23000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Barat,Sumatera Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Barat,Sumatera Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Barat,Sumatera Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Barat,Sumatera Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Barat,Sumatera Barat,Telur Ayam,kg,30000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Bawang Merah,kg,41900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Bawang Merah,kg,41900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Bawang Merah,kg,41900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Bawang Merah,kg,41900.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Bawang Putih,kg,39400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Bawang Putih,kg,39400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Bawang Putih,kg,40000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Bawang Putih,kg,39400.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Beras,kg,15800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Beras,kg,15750.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Beras,kg,15800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Beras,kg,15800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Cabai Merah,kg,50000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Cabai Merah,kg,49600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Cabai Merah,kg,48250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Cabai Merah,kg,48250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Cabai Rawit,kg,59250.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Cabai Rawit,kg,60200.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Cabai Rawit,kg,59950.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Cabai Rawit,kg,59650.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Daging Ayam,kg,30750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Daging Ayam,kg,30750.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Daging Ayam,kg,31650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Daging Ayam,kg,32500.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Daging Sapi,kg,141900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Daging Sapi,kg,141900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Daging Sapi,kg,141900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Daging Sapi,kg,141900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Gula Pasir,kg,19150.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Gula Pasir,kg,18900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Gula Pasir,kg,18900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Gula Pasir,kg,18900.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Minyak Goreng,kg,21100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Minyak Goreng,kg,21100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Minyak Goreng,kg,21000.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Minyak Goreng,kg,21100.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Selatan,Sumatera Selatan,Telur Ayam,kg,29250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Selatan,Sumatera Selatan,Telur Ayam,kg,29100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Selatan,Sumatera Selatan,Telur Ayam,kg,29100.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Selatan,Sumatera Selatan,Telur Ayam,kg,29250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Bawang Merah,kg,38450.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Bawang Merah,kg,39000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Bawang Merah,kg,39000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Bawang Merah,kg,39200.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Bawang Merah,kg,34750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Bawang Putih,kg,35650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Bawang Putih,kg,35650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Bawang Putih,kg,35650.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Bawang Putih,kg,35750.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Bawang Putih,kg,31000.0,PIHPS Grid Backfill,Bawang,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Beras,kg,14800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Beras,kg,14800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Beras,kg,14800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Beras,kg,14800.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Beras,kg,14700.0,PIHPS Grid Backfill,Beras,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Cabai Merah,kg,31600.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Cabai Merah,kg,32700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Cabai Merah,kg,32000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Cabai Merah,kg,31550.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Cabai Merah,kg,28500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Cabai Rawit,kg,26500.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Cabai Rawit,kg,25900.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Cabai Rawit,kg,25700.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Cabai Rawit,kg,25750.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Cabai Rawit,kg,18000.0,PIHPS Grid Backfill,Cabai,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Daging Ayam,kg,41900.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Daging Ayam,kg,41650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Daging Ayam,kg,41600.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Daging Ayam,kg,41250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Daging Ayam,kg,30250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Daging Sapi,kg,137650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Daging Sapi,kg,137650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Daging Sapi,kg,137650.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Daging Sapi,kg,137000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Daging Sapi,kg,120000.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Gula Pasir,kg,19700.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Gula Pasir,kg,19700.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Gula Pasir,kg,19650.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Gula Pasir,kg,19650.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Gula Pasir,kg,18750.0,PIHPS Grid Backfill,Gula,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Minyak Goreng,kg,22400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Minyak Goreng,kg,22400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Minyak Goreng,kg,22400.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Minyak Goreng,kg,22450.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Minyak Goreng,kg,21950.0,PIHPS Grid Backfill,Minyak Goreng,Provinsi/Kota,Province Historical
+2026-04-27,Sumatera Utara,Sumatera Utara,Telur Ayam,kg,32400.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-28,Sumatera Utara,Sumatera Utara,Telur Ayam,kg,32300.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-29,Sumatera Utara,Sumatera Utara,Telur Ayam,kg,32300.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-04-30,Sumatera Utara,Sumatera Utara,Telur Ayam,kg,31800.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical
+2026-05-01,Sumatera Utara,Sumatera Utara,Telur Ayam,kg,31250.0,PIHPS Grid Backfill,Protein Hewani,Provinsi/Kota,Province Historical

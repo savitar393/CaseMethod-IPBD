@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS fact_weather_region (
+    weather_id SERIAL PRIMARY KEY,
+    weather_datetime_utc TIMESTAMP NOT NULL,
+    forecast_date DATE NOT NULL,
+    province_name TEXT NOT NULL,
+    weather_code TEXT,
+    weather_desc TEXT,
+    temperature_min NUMERIC(8,2),
+    temperature_max NUMERIC(8,2),
+    temperature_avg NUMERIC(8,2),
+    humidity_min NUMERIC(8,2),
+    humidity_max NUMERIC(8,2),
+    humidity_avg NUMERIC(8,2),
+    wind_direction TEXT,
+    wind_speed NUMERIC(8,2),
+    weather_risk_label TEXT,
+    weather_risk_score INT,
+    source TEXT NOT NULL,
+    scraped_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (weather_datetime_utc, province_name, weather_code, source)
+);

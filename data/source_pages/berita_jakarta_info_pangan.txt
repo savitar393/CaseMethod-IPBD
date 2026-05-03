@@ -1,0 +1,242 @@
+A PHP Error was encountered
+Severity: Notice
+Message:  Trying to get property of non-object
+Filename: controllers/Infopangan.php
+Line Number: 72
+Backtrace:
+File: /mnt/src/application/controllers/Infopangan.php
+Line: 72
+Function: _error_handler
+File: /mnt/src/application/controllers/Infopangan.php
+Line: 24
+Function: get_ipj
+File: /mnt/src/index.php
+Line: 316
+Function: require_once
+Info Pangan Jakarta
+You don't have javascript enabled. Good luck with that.
+Website Berita Resmi
+Pemerintah Provinsi
+Daerah Khusus Jakarta
+menu
+search
+Indeks
+add
+Indeks
+English
+Ekonomi
+Pembangunan
+Pemerintahan
+Kesra
+Pendidikan
+Fokus
+Lintas Kota
+Wisata
+Kesehatan
+Pemberdayaan Perempuan
+Jakarta Hari Ini
+Olahraga
+Transportasi
+BUMD
+DPRD
+Potret
+add
+Potret Jakarta
+Paras Kota
+Video
+add
+Berita
+Warta Utama
+English Video
+TV
+Loka Urban
+Lenggang Jakarta
+Wawancara Khusus
+Siaran Pers
+Lainnya
+Berita Wilayah
+add
+Jakarta Pusat
+Jakarta Utara
+Jakarta Barat
+Jakarta Selatan
+Jakarta Timur
+Kepulauan Seribu
+Agenda Kegiatan
+Informasi Publik
+Bang Jaki
+Info Pangan
+Infografis
+Jakita
+Jakarta Visual
+Tentang Kami
+Pencarian
+Go
+Beranda
+Info Pangan Jakarta
+Info Pangan
+Harga tanggal 25 Mei 2023
+berbanding harga sebelumnya tanggal 24 Mei 2023
+Sumber :
+Infopangan.Jakarta.Go.Id
+Beras IR. I (IR 64)
+Rp. 12.347 / kg
+Harga Sebelumnya: Rp. 12.342
+arrow_upward
+Beras IR. II (IR 64) Ramos
+Rp. 11.494 / kg
+Harga Sebelumnya: Rp. 11.467
+arrow_upward
+Beras IR. III (IR 64)
+Rp. 10.640 / kg
+Harga Sebelumnya: Rp. 10.585
+arrow_upward
+Beras Muncul .I
+Rp. 12.600 / kg
+Harga Sebelumnya: Rp. 12.559
+arrow_upward
+Beras IR 42/Pera
+Rp. 14.079 / kg
+Harga Sebelumnya: Rp. 14.026
+arrow_upward
+Beras Setra I/Premium
+Rp. 13.145 / kg
+Harga Sebelumnya: Rp. 13.177
+arrow_downward
+Minyak Goreng (Kuning/Curah)
+Rp. 15.853 / kg
+Harga Sebelumnya: Rp. 15.825
+arrow_upward
+Cabe Merah Keriting
+Rp. 39.600 / kg
+Harga Sebelumnya: Rp. 39.222
+arrow_upward
+Cabe Merah Besar (TW)
+Rp. 48.022 / kg
+Harga Sebelumnya: Rp. 47.857
+arrow_upward
+Cabe Rawit Merah
+Rp. 48.652 / kg
+Harga Sebelumnya: Rp. 49.363
+arrow_downward
+Cabe Rawit Hijau
+Rp. 44.869 / kg
+Harga Sebelumnya: Rp. 45.666
+arrow_downward
+Bawang Merah
+Rp. 47.391 / kg
+Harga Sebelumnya: Rp. 48.000
+arrow_downward
+Bawang Putih
+Rp. 39.000 / kg
+Harga Sebelumnya: Rp. 39.466
+arrow_downward
+Ayam Broiler/Ras
+Rp. 40.477 / ekor
+Harga Sebelumnya: Rp. 40.767
+arrow_downward
+Telur Ayam Ras
+Rp. 32.255 / kg
+Harga Sebelumnya: Rp. 32.122
+arrow_upward
+Gula Pasir
+Rp. 14.644 / kg
+Harga Sebelumnya: Rp. 14.633
+arrow_upward
+Tepung Terigu
+Rp. 11.108 / kg
+Harga Sebelumnya: Rp. 10.988
+arrow_upward
+Garam Dapur
+Rp. 3.288 / 250gr
+Harga Sebelumnya: Rp. 3.238
+arrow_upward
+Kentang (sedang)
+Rp. 18.119 / kg
+Harga Sebelumnya: Rp. 18.033
+arrow_upward
+Tomat Buah
+Rp. 15.565 / kg
+Harga Sebelumnya: Rp. 15.600
+arrow_downward
+Kelapa Kupas
+Rp. 9.674 / butir
+Harga Sebelumnya: Rp. 9.642
+arrow_upward
+Semangka
+Rp. 11.000 / kg
+Harga Sebelumnya: Rp. 10.941
+arrow_upward
+Jeruk Medan
+Rp. 30.411 / kg
+Harga Sebelumnya: Rp. 30.454
+arrow_downward
+Daging Sapi Has (Paha Belakang)
+Rp. 144.886 / kg
+Harga Sebelumnya: Rp. 145.000
+arrow_downward
+Daging Sapi Murni (Semur)
+Rp. 140.217 / kg
+Harga Sebelumnya: Rp. 140.111
+arrow_upward
+Daging Kambing
+Rp. 145.370 / kg
+Harga Sebelumnya: Rp. 145.800
+arrow_downward
+Daging Babi Berlemak
+Rp. 117.619 / kg
+Harga Sebelumnya: Rp. 117.000
+arrow_upward
+Ikan Bandeng (sedang)
+Rp. 41.365 / kg
+Harga Sebelumnya: Rp. 41.425
+arrow_downward
+Ikan Mas
+Rp. 37.702 / kg
+Harga Sebelumnya: Rp. 37.885
+arrow_downward
+Ikan Lele
+Rp. 27.684 / kg
+Harga Sebelumnya: Rp. 27.861
+arrow_downward
+Gas Elpiji 3kg
+Rp. 21.300 / 3kg
+Harga Sebelumnya: Rp. 21.263
+arrow_upward
+Susu Bubuk Bendera 400gr
+Rp. 46.000 / krds
+Harga Sebelumnya: Rp. 45.200
+arrow_upward
+Susu Bubuk Dancow 400gr
+Rp. 49.111 / krds
+Harga Sebelumnya: Rp. 49.000
+arrow_upward
+Susu Kental Bendera 200gr
+Rp. 12.619 / klng
+Harga Sebelumnya: Rp. 12.566
+arrow_upward
+Susu Kental Enak 200gr
+Rp. 10.913 / klng
+Harga Sebelumnya: Rp. 10.883
+arrow_upward
+Margarin Blueband Cup
+Rp. 15.868 / kms
+Harga Sebelumnya: Rp. 15.783
+arrow_upward
+Margarin Blueband Sachet
+Rp. 10.336 / kms
+Harga Sebelumnya: Rp. 10.322
+arrow_upward
+KONTAK KAMI
+Jl. Medan Merdeka Selatan 8-9 Blok F Lt. II Jakarta
+local_phone
++62 21 3822356
+email
+redaksi@beritajakarta.id
+TAUTAN LAINNYA
+Tentang Kami
+|
+Sitemap
+|
+Infografis
+© copyright 2001 - 2026 All Rights Reserved

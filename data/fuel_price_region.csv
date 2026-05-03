@@ -1,0 +1,114 @@
+effective_date,province_name,product_name,fuel_category,price_per_liter,source
+2026-04-18,Aceh,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Aceh,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Aceh,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Bali,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Bali,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Bali,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Banten,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Banten,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Banten,Pertamax Green 95,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Banten,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Bengkulu,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Bengkulu,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Bengkulu,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DI Yogyakarta,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DI Yogyakarta,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DI Yogyakarta,Pertamax Green 95,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DI Yogyakarta,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DKI Jakarta,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DKI Jakarta,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DKI Jakarta,Pertamax Green 95,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,DKI Jakarta,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Gorontalo,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Gorontalo,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Gorontalo,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jambi,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jambi,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jambi,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Barat,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Barat,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Barat,Pertamax Green 95,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Barat,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Tengah,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Tengah,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Tengah,Pertamax Green 95,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Tengah,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Timur,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Timur,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Timur,Pertamax Green 95,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Jawa Timur,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Barat,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Barat,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Barat,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Selatan,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Selatan,Pertamax,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Selatan,Pertamax Turbo,Gasoline,20250.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Tengah,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Tengah,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Tengah,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Timur,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Timur,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Timur,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Utara,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Utara,Pertamax,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kalimantan Utara,Pertamax Turbo,Gasoline,20250.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kepulauan Bangka Belitung,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kepulauan Bangka Belitung,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kepulauan Bangka Belitung,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kepulauan Riau,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kepulauan Riau,Pertamax,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Kepulauan Riau,Pertamax Turbo,Gasoline,20250.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Lampung,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Lampung,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Lampung,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Maluku,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Maluku,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Maluku Utara,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Maluku Utara,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Nusa Tenggara Barat,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Nusa Tenggara Barat,Pertamax,Gasoline,12300.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Nusa Tenggara Barat,Pertamax Turbo,Gasoline,19400.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Nusa Tenggara Timur,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Nusa Tenggara Timur,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Nusa Tenggara Timur,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Barat,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Barat,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Barat Daya,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Barat Daya,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Pegunungan,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Pegunungan,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Selatan,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Selatan,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Tengah,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Papua Tengah,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Riau,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Riau,Pertamax,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Riau,Pertamax Turbo,Gasoline,20250.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Barat,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Barat,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Barat,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Selatan,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Selatan,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Selatan,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Tengah,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Tengah,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Tengah,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Tenggara,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Tenggara,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Tenggara,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Utara,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Utara,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sulawesi Utara,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Barat,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Barat,Pertamax,Gasoline,12900.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Barat,Pertamax Turbo,Gasoline,20250.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Selatan,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Selatan,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Selatan,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Utara,Pertalite,Gasoline,10000.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Utara,Pertamax,Gasoline,12600.0,Pertamina Patra Niaga Fuel Price
+2026-04-18,Sumatera Utara,Pertamax Turbo,Gasoline,19850.0,Pertamina Patra Niaga Fuel Price

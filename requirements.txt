@@ -4,3 +4,11 @@ psycopg2-binary
 streamlit
 plotly
 boto3
+beautifulsoup4
+playwright
+html5lib
+lxml
+requests==2.32.3
+urllib3<3
+charset-normalizer<4
+chardet<6

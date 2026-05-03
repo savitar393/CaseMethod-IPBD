@@ -1,0 +1,194 @@
+[
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/menu-international",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "59",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:36 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":{\"id\":1,\"is_hide\":\"y\",\"created_at\":\"2025-02-25T05:09:05.000000Z\",\"updated_at\":\"2025-08-26T01:13:54.000000Z\"}}"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/sliders",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "58",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:36 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":[{\"id\":28,\"title\":\"PHP Smartphone\",\"file\":\"https:\\/\\/api-panelhargav2.badanpangan.go.id\\/storage\\/uploads\\/slider\\/rOCcsrvtr28RNGDEsbI9bXbPBWqIsYnleFGh2jhw.png\",\"created_at\":\"2025-02-17T02:11:34.000000Z\",\"updated_at\":\"2025-02-17T02:11:34.000000Z\"}]}"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/config/keterangan?level_harga_id=3",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "57",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:36 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":[{\"id\":5,\"name\":\"( - ) Tidak ada panen\\/tidak ada transaksi\"},{\"id\":8,\"name\":\"Satuan: dalam Rp\\/kg, kecuali Minyak Goreng dalam Rp\\/liter\"},{\"id\":9,\"name\":\"Bawang Merah Rogol Kering Panen\"},{\"id\":10,\"name\":\"Daging sapi jenis paha belakang\"},{\"id\":11,\"name\":\"Jagung Tk. Peternak ka. 15%\"},{\"id\":1,\"name\":\"HET: Harga Eceran Tertinggi sesuai Perbadan 5\\/2024\"},{\"id\":2,\"name\":\"HAP: Harga Acuan Penjualan Tingkat Konsumen sesuai Perbadan 6\\/2024 dan Perbadan 12\\/2024\"}]}"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/storage/uploads/slider/rOCcsrvtr28RNGDEsbI9bXbPBWqIsYnleFGh2jhw.png",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "max-age=2592000",
+      "content-encoding": "gzip",
+      "etag": "W/\"67b29ad6-512ca\"",
+      "expires": "Sun, 31 May 2026 20:26:36 GMT",
+      "date": "Fri, 01 May 2026 20:26:36 GMT",
+      "content-type": "image/png",
+      "last-modified": "Mon, 17 Feb 2025 02:11:34 GMT",
+      "server": "nginx",
+      "vary": "Accept-Encoding"
+    },
+    "body_error": "'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/provinces?search=",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "56",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:37 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":[{\"id\":1,\"nama\":\"Aceh\",\"kode_map\":\"ID-AC\",\"created_at\":\"2021-02-26T15:25:28.000000Z\",\"updated_at\":\"2024-12-23T08:47:32.000000Z\",\"national_id\":\"11           \",\"latlong\":\"4.695135,96.7493993\",\"is_produsen\":\"y\"},{\"id\":17,\"nama\":\"Bali\",\"kode_map\":\"ID-BA\",\"created_at\":\"2021-02-26T15:25:28.000000Z\",\"updated_at\":\"2024-12-23T08:47:36.000000Z\",\"national_id\":\"51           \",\"latlong\":\"-8.4095178,115.188916\",\"is_produsen\":\"y\"},{\"id\":16,\"nama\":\"Banten\",\"kode_map\":\"ID-BT\",\"created_at\":\"2021-02-26T15:25:28.000000Z\",\"updated_at\":\"2024-12-23T08:47:36.000000Z\",\"national_id\":\"36           \",\"latlong\":\"-6.4058172,106.0640179\",\"is_produsen\":\"y\"},{\"id\":7,\"nama\":\"Bengkulu\",\"kode_map\":\"ID-BE\",\"created_at\":\"2021-02-26T15:25:28.000000Z\",\"updated_at\":\"2024-12-23T08:47:34.000000Z\",\"national_id\":\"17           \",\"latlong\":\"-3.7928451,102.2607641\",\"is_produsen\":\"y\"},{\"id\":14,\"nama\":\"D.I Yogyakarta\",\"kode_map\":\"ID-YO\",\"created_at\":\"2021-02-26T15:25:28."
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/produsen",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "55",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:37 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":[{\"id\":\"1\",\"nama\":\"Luas Panen Padi\",\"satuan\":\"(%)\",\"sektor_id\":1,\"secctor_id_desc\":\"Subsektor Tanaman Pangan\",\"nilai_min\":\"0\",\"nilai_max\":\"100\",\"urutan\":1,\"status\":null,\"satuan_lain\":null,\"list_satuan\":[{\"satuan\":\"(%)\",\"nilai_konversi\":1}]},{\"id\":\"2\",\"nama\":\"GKP Tingkat Petani\",\"satuan\":\"Rp\\/kg\",\"sektor_id\":1,\"secctor_id_desc\":\"Subsektor Tanaman Pangan\",\"nilai_min\":\"5850\",\"nilai_max\":\"7150\",\"urutan\":2,\"status\":{\"id\":18,\"komoditas_id\":2,\"status_aman\":\"Aman : Harga > HPP\",\"status_waspada\":\"Waspada : Harga = HPP\",\"status_intervensi\":\"Intervensi : Harga < HPP\",\"created_at\":\"2025-02-21T04:33:15.000000Z\",\"updated_at\":\"2025-02-21T04:38:10.000000Z\"},\"satuan_lain\":null,\"list_satuan\":[{\"satuan\":\"Rp\\/kg\",\"nilai_konversi\":1}]},{\"id\":\"3\",\"nama\":\"GKP Tingkat Penggilingan\",\"satuan\":\"Rp.\\/Kg\",\"sektor_id\":1,\"secctor_id_desc\":\"Subsektor Tanaman Pangan\",\"nilai_min\":\"4320\",\"nilai_max\":\"11000\",\"urutan\":3,\"status\":{\"id\":19,\"komoditas_id\":3,\"st"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/cut-off",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "54",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:37 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":{\"id\":1,\"jam\":\"11:00:00\"}}"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/front/harga-pangan-informasi?province_id=&city_id=&level_harga_id=1",
+    "status": 401,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "cache-control": "no-cache, private",
+      "x-ratelimit-remaining": "53",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:38 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"error\",\"message\":\"Unauthorized. Invalid or missing API key.\"}"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/front/harga-peta-provinsi?level_harga_id=3&komoditas_id=109&period_date=01%2F05%2F2026%20-%2001%2F05%2F2026&multi_status_map[0]=&multi_province_id[0]=",
+    "status": 401,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "cache-control": "no-cache, private",
+      "x-ratelimit-remaining": "52",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:38 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"error\",\"message\":\"Unauthorized. Invalid or missing API key.\"}"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/eceran",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "51",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:38 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":[{\"id\":\"27\",\"nama\":\"Beras Premium\",\"satuan\":\"Rp.\\/Kg\",\"sektor_id\":1,\"secctor_id_desc\":\"Subsektor Tanaman Pangan\",\"nilai_min\":\"9500\",\"nilai_max\":\"20000\",\"urutan\":1,\"status\":{\"id\":1,\"komoditas_id\":27,\"status_aman\":\"Aman : Harga <= HET\",\"status_waspada\":\"Waspada: Harga > HET (0 - 5%)\",\"status_intervensi\":\"Intervensi: Harga > HET (> 5%)\",\"created_at\":\"2025-02-18T04:52:24.000000Z\",\"updated_at\":\"2025-02-18T04:53:55.000000Z\"},\"satuan_lain\":null,\"list_satuan\":[{\"satuan\":\"Rp.\\/Kg\",\"nilai_konversi\":1}],\"created_at\":\"2021-02-27T13:01:07.000000Z\"},{\"id\":\"28\",\"nama\":\"Beras Medium\",\"satuan\":\"Rp.\\/Kg\",\"sektor_id\":1,\"secctor_id_desc\":\"Subsektor Tanaman Pangan\",\"nilai_min\":\"8500\",\"nilai_max\":\"20000\",\"urutan\":2,\"status\":{\"id\":2,\"komoditas_id\":28,\"status_aman\":\"Aman: Harga <= HET\",\"status_waspada\":\"Waspada: Harga > HET (0 - 5%)\",\"status_intervensi\":\"Intervensi: Harga > HET (> 5%)\",\"created_at\":\"2025-02-18T04:55:25.000000Z\",\"updated_at\":\"202"
+  },
+  {
+    "url": "https://api-panelhargav2.badanpangan.go.id/api/cms/komoditas-pusat",
+    "status": 200,
+    "headers": {
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "no-cache, private",
+      "content-encoding": "gzip",
+      "x-ratelimit-remaining": "50",
+      "access-control-allow-origin": "*",
+      "date": "Fri, 01 May 2026 20:26:39 GMT",
+      "x-ratelimit-limit": "60",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "server": "nginx"
+    },
+    "body_sample": "{\"status\":\"success\",\"message\":\"Berhasil mendapatkan data\",\"data\":[{\"id\":\"113\",\"nama\":\"Bawang Putih Bonggol\",\"satuan\":\"Rp.\\/kg\",\"sektor_id\":2,\"secctor_id_desc\":\"Subsektor Hortikultura\",\"nilai_min\":\"15000\",\"nilai_max\":\"80000\",\"urutan\":1,\"status\":null,\"satuan_lain\":null,\"list_satuan\":[{\"satuan\":\"Rp.\\/kg\",\"nilai_konversi\":1}]},{\"id\":\"114\",\"nama\":\"Cabai Merah Keriting\",\"satuan\":\"Rp.\\/kg\",\"sektor_id\":2,\"secctor_id_desc\":\"Subsektor Hortikultura\",\"nilai_min\":\"10000\",\"nilai_max\":\"150000\",\"urutan\":2,\"status\":null,\"satuan_lain\":null,\"list_satuan\":[{\"satuan\":\"Rp.\\/kg\",\"nilai_konversi\":1}]},{\"id\":\"115\",\"nama\":\"Cabai Rawit Merah\",\"satuan\":\"Rp.\\/kg\",\"sektor_id\":2,\"secctor_id_desc\":\"Subsektor Hortikultura\",\"nilai_min\":\"9000\",\"nilai_max\":\"150000\",\"urutan\":3,\"status\":null,\"satuan_lain\":null,\"list_satuan\":[{\"satuan\":\"Rp.\\/kg\",\"nilai_konversi\":1}]},{\"id\":\"116\",\"nama\":\"Ayam Ras Pedaging (Hidup)\",\"satuan\":\"Rp.\\/kg\",\"sektor_id\":3,\"secctor_id_desc\":\"Subsektor Peternakan\",\"nilai_min\":\"14625\",\"nilai_max\":\"33000"
+  }
+]

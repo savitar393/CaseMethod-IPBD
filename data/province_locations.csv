@@ -1,0 +1,39 @@
+province_name,province_code,map_code,latitude,longitude,source
+Aceh,1,ID-AC,4.695135,96.7493993,Badan Pangan Panel Harga Province API
+Bali,17,ID-BA,-8.4095178,115.188916,Badan Pangan Panel Harga Province API
+Banten,16,ID-BT,-6.4058172,106.0640179,Badan Pangan Panel Harga Province API
+Bengkulu,7,ID-BE,-3.7928451,102.2607641,Badan Pangan Panel Harga Province API
+D.I Yogyakarta,14,ID-YO,-7.8753849,110.4262088,Badan Pangan Panel Harga Province API
+DKI Jakarta,11,ID-JK,-6.1944491,106.8229198,Badan Pangan Panel Harga Province API
+Gorontalo,29,ID-GO,0.6999372,122.4467238,Badan Pangan Panel Harga Province API
+Jambi,5,ID-JA,-1.6101229,103.6131203,Badan Pangan Panel Harga Province API
+Jawa Barat,12,ID-JB,-7.090911,107.668887,Badan Pangan Panel Harga Province API
+Jawa Tengah,13,ID-JT,-7.150975,110.1402594,Badan Pangan Panel Harga Province API
+Jawa Timur,15,ID-JI,-7.5360639,112.2384017,Badan Pangan Panel Harga Province API
+Kalimantan Barat,20,ID-KB,-0.2787808,111.4752851,Badan Pangan Panel Harga Province API
+Kalimantan Selatan,22,ID-KS,-3.0926415,115.2837585,Badan Pangan Panel Harga Province API
+Kalimantan Tengah,21,ID-KT,-1.6814878,113.3823545,Badan Pangan Panel Harga Province API
+Kalimantan Timur,23,ID-KI,0.5386586,116.419389,Badan Pangan Panel Harga Province API
+Kalimantan Utara,24,ID-KU,3.0730929,116.0413889,Badan Pangan Panel Harga Province API
+Kepulauan Bangka Belitung,9,ID-BB,-2.7410513,106.4405872,Badan Pangan Panel Harga Province API
+Kepulauan Riau,10,ID-KR,3.9456514,108.1428669,Badan Pangan Panel Harga Province API
+Lampung,8,ID-LA,-4.5585849,105.4068079,Badan Pangan Panel Harga Province API
+Maluku,31,ID-MA,-3.2384616,130.1452734,Badan Pangan Panel Harga Province API
+Maluku Utara,32,ID-MU,1.5709993,127.8087693,Badan Pangan Panel Harga Province API
+Nusa Tenggara Barat,18,ID-NB,-8.6529334,117.3616476,Badan Pangan Panel Harga Province API
+Nusa Tenggara Timur,19,ID-NT,-8.6573819,121.0793705,Badan Pangan Panel Harga Province API
+Papua,34,ID-PA,-4.269928,138.0803529,Badan Pangan Panel Harga Province API
+Papua Barat,33,ID-PB,-1.3361154,133.1747162,Badan Pangan Panel Harga Province API
+Papua Barat Daya,35,ID-PD,-0.8827286401081371,131.28662742553877,Badan Pangan Panel Harga Province API
+Papua Pegunungan,36,ID-PG,-4.064508425610202,138.95770535370715,Badan Pangan Panel Harga Province API
+Papua Selatan,38,ID-PS,-4.269928,138.0803529,Badan Pangan Panel Harga Province API
+Papua Tengah,37,ID-PT,-4.269928,138.0803529,Badan Pangan Panel Harga Province API
+Riau,4,ID-RI,0.2933469,101.7068294,Badan Pangan Panel Harga Province API
+Sulawesi Barat,30,ID-SR,-2.8441371,119.2320784,Badan Pangan Panel Harga Province API
+Sulawesi Selatan,27,ID-SN,-3.6687994,119.9740534,Badan Pangan Panel Harga Province API
+Sulawesi Tengah,26,ID-ST,-1.4300254,121.4456179,Badan Pangan Panel Harga Province API
+Sulawesi Tenggara,28,ID-SG,-4.14491,122.174605,Badan Pangan Panel Harga Province API
+Sulawesi Utara,25,ID-SA,0.6246932,123.9750018,Badan Pangan Panel Harga Province API
+Sumatera Barat,3,ID-SB,-0.7399397,100.8000051,Badan Pangan Panel Harga Province API
+Sumatera Selatan,6,ID-SS,-3.3194374,103.914399,Badan Pangan Panel Harga Province API
+Sumatera Utara,2,ID-SU,2.1153547,99.5450974,Badan Pangan Panel Harga Province API

@@ -28,15 +28,17 @@ CREATE TABLE IF NOT EXISTS fact_food_price (
 
 CREATE TABLE IF NOT EXISTS fact_price_alert (
     alert_id SERIAL PRIMARY KEY,
-    commodity_id INT NOT NULL REFERENCES dim_commodity(commodity_id),
-    region_id INT NOT NULL REFERENCES dim_region(region_id),
+    commodity_id INT REFERENCES dim_commodity(commodity_id),
+    region_id INT REFERENCES dim_region(region_id),
     price_date DATE NOT NULL,
+    source TEXT,
     current_price NUMERIC(12,2),
     previous_price NUMERIC(12,2),
     percentage_change NUMERIC(8,2),
+    gap_days INT,
     alert_status TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    UNIQUE (commodity_id, region_id, price_date)
+    UNIQUE (commodity_id, region_id, price_date, source)
 );
 
 GRANT USAGE, CREATE ON SCHEMA public TO pangan_user;

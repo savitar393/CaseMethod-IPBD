@@ -1,0 +1,176 @@
+Komoditas
+Pasar
+Statistik
+Berita
+Metadata
+Tentang Kami
+Hubungi Kami
+Statistik Harga
+
+Data perubahan harga setiap komoditas dalam 1 bulan
+
+Per Pasar
+Per Kota/Kabupaten
+Per Komoditas
+Unduh
+#	KOMODITAS	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	TERTINGGI MAY 2026	RATA-RATA MAY 2026	TERENDAH MAY 2026
+1	
+Beras IR. I (IR 64)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+2	
+Beras IR. II (IR 64) Ramos
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+3	
+Beras IR. III (IR 64)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+4	
+Beras Muncul .I
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+5	
+Beras IR 42/Pera
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+6	
+Beras Setra I/Premium
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+7	
+Minyak Goreng (Kuning/Curah)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+8	
+Cabe Merah Keriting
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+9	
+Cabe Merah Besar (TW)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+10	
+Cabe Rawit Merah
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+11	
+Cabe Rawit Hijau
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+12	
+Bawang Merah
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+13	
+Bawang Putih
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+14	
+Daging Sapi Has (Paha Belakang)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+15	
+Daging Sapi Murni (Semur)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+16	
+Ayam Broiler/Ras
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+17	
+Telur Ayam Ras
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+18	
+Gula Pasir
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+19	
+Tepung Terigu
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+20	
+Garam Dapur
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+21	
+Kentang (sedang)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+22	
+Tomat Buah
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+23	
+Kelapa Kupas
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+24	
+Semangka
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+25	
+Jeruk Medan
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+26	
+Daging Kambing
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+27	
+Daging Babi Berlemak
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+28	
+Ikan Bandeng (sedang)
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+29	
+Ikan Mas
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+30	
+Ikan Lele
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+31	
+Gas Elpiji 3kg
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+32	
+Susu Bubuk Bendera 400gr
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+33	
+Susu Bubuk Dancow 400gr
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+34	
+Susu Kental Bendera 200gr
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+35	
+Susu Kental Enak 200gr
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+36	
+Margarin Blueband Cup
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+37	
+Margarin Blueband Sachet
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+38	
+Beras Medium
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+39	
+Gula Pasir Kemasan Premium
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+40	
+Minyak Goreng Kemasan Premium
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+41	
+Minyak Goreng MINYAKITA
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+42	
+Daging Sapi
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+43	
+Cabe Rawit Ijo Besar
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+44	
+Kacang Kedelai
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+45	
+Ikan Kembung
+	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0	Rp 0
+Butuh Bantuan?
+
+Tanyakan apapun dan kami akan siap membantumu!
+
+Hubungi Kami Sekarang
+
+Info Pangan Jakarta (IPJ) merupakan pusat informasi harga pangan di seluruh DKI Jakarta yang akan selalu diperbarui setiap hari.
+
+Copyright © 2023 Info Pangan Jakarta
+
+SITUS
+
+Statistik
+Berita
+Tentang Kami
+
+LINK
+
+PD. Pasar Jaya
+
+ALAMAT
+
+PD. Pasar Jaya
+Jln. Cikini Raya No. 90 Menteng
+Jakarta Pusat

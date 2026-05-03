@@ -87,6 +87,20 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
 
     df["price"] = pd.to_numeric(df["price"], errors="coerce")
 
+    # Remove invalid price rows
+    df = df[df["price"] > 0]
+
+    # Prevent duplicate commodity-region-date rows from breaking alert calculation
+    df = df.drop_duplicates(
+        subset=[
+            "price_date",
+            "province_name",
+            "city_name",
+            "commodity_name",
+        ],
+        keep="last"
+    )
+
     df = df.dropna(
         subset=[
             "price_date",
@@ -236,11 +250,12 @@ def calculate_alerts():
             c.commodity_name,
             r.province_name,
             r.city_name,
-            f.price
+            f.price,
+            f.source
         FROM fact_food_price f
         JOIN dim_commodity c ON f.commodity_id = c.commodity_id
         JOIN dim_region r ON f.region_id = r.region_id
-        ORDER BY c.commodity_name, r.province_name, r.city_name, f.price_date
+        ORDER BY c.commodity_name, r.province_name, r.city_name, f.source, f.price_date
     """
 
     df = pd.read_sql(query, engine)
@@ -248,12 +263,36 @@ def calculate_alerts():
     df["price"] = pd.to_numeric(df["price"], errors="coerce")
 
     df["previous_price"] = df.groupby(
-        ["commodity_id", "region_id"]
+        ["commodity_id", "region_id", "source"]
     )["price"].shift(1)
 
-    df["percentage_change"] = (
-        (df["price"] - df["previous_price"]) / df["previous_price"] * 100
-    )
+    df["previous_date"] = df.groupby(
+        ["commodity_id", "region_id", "source"]
+    )["price_date"].shift(1)
+
+    df["gap_days"] = (
+        pd.to_datetime(df["price_date"]) - pd.to_datetime(df["previous_date"])
+    ).dt.days
+
+
+    def calculate_percentage_change(row):
+        previous_price = row["previous_price"]
+        gap_days = row["gap_days"]
+
+        if pd.isna(previous_price):
+            return None
+
+        if previous_price <= 0:
+            return None
+
+        # Do not treat long gaps as daily price alerts
+        if pd.isna(gap_days) or gap_days > 7:
+            return None
+
+        return ((row["price"] - previous_price) / previous_price) * 100
+
+
+    df["percentage_change"] = df.apply(calculate_percentage_change, axis=1)
 
     def assign_status(change):
         if pd.isna(change):
@@ -274,44 +313,51 @@ def calculate_alerts():
             price_date = row["price_date"].date()
 
             conn.execute(
-                text("""
-                    INSERT INTO fact_price_alert
-                    (
-                        commodity_id,
-                        region_id,
-                        price_date,
-                        current_price,
-                        previous_price,
-                        percentage_change,
-                        alert_status
-                    )
-                    VALUES
-                    (
-                        :commodity_id,
-                        :region_id,
-                        :price_date,
-                        :current_price,
-                        :previous_price,
-                        :percentage_change,
-                        :alert_status
-                    )
-                    ON CONFLICT (commodity_id, region_id, price_date)
-                    DO UPDATE SET
-                        current_price = EXCLUDED.current_price,
-                        previous_price = EXCLUDED.previous_price,
-                        percentage_change = EXCLUDED.percentage_change,
-                        alert_status = EXCLUDED.alert_status
-                """),
-                {
-                    "commodity_id": int(row["commodity_id"]),
-                    "region_id": int(row["region_id"]),
-                    "price_date": price_date,
-                    "current_price": float(row["price"]),
-                    "previous_price": None if pd.isna(row["previous_price"]) else float(row["previous_price"]),
-                    "percentage_change": None if pd.isna(row["percentage_change"]) else float(row["percentage_change"]),
-                    "alert_status": row["alert_status"]
-                }
-            )
+            text("""
+                INSERT INTO fact_price_alert
+                (
+                    commodity_id,
+                    region_id,
+                    price_date,
+                    source,
+                    current_price,
+                    previous_price,
+                    percentage_change,
+                    gap_days,
+                    alert_status
+                )
+                VALUES
+                (
+                    :commodity_id,
+                    :region_id,
+                    :price_date,
+                    :source,
+                    :current_price,
+                    :previous_price,
+                    :percentage_change,
+                    :gap_days,
+                    :alert_status
+                )
+                ON CONFLICT (commodity_id, region_id, price_date, source)
+                DO UPDATE SET
+                    current_price = EXCLUDED.current_price,
+                    previous_price = EXCLUDED.previous_price,
+                    percentage_change = EXCLUDED.percentage_change,
+                    gap_days = EXCLUDED.gap_days,
+                    alert_status = EXCLUDED.alert_status
+            """),
+            {
+                "commodity_id": int(row["commodity_id"]),
+                "region_id": int(row["region_id"]),
+                "price_date": price_date,
+                "source": row["source"],
+                "current_price": float(row["price"]),
+                "previous_price": None if pd.isna(row["previous_price"]) else float(row["previous_price"]),
+                "percentage_change": None if pd.isna(row["percentage_change"]) else float(row["percentage_change"]),
+                "gap_days": None if pd.isna(row["gap_days"]) else int(row["gap_days"]),
+                "alert_status": row["alert_status"]
+            }
+        )
 
     print("Price alerts calculated.")
 

@@ -95,6 +95,7 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/etl:/opt/airflow/etl
     - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
     - ${AIRFLOW_PROJ_DIR:-.}/sql:/opt/airflow/sql
+    - ${AIRFLOW_PROJ_DIR:-.}/scraper:/opt/airflow/scraper
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -158,6 +159,19 @@ services:
     restart: always
     volumes:
       - pgadmin-data:/var/lib/pgadmin
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: panganwatch_metabase
+    ports:
+      - "3000:3000"
+    environment:
+      MB_DB_FILE: /metabase-data/metabase.db
+    volumes:
+      - metabase_data:/metabase-data
+    depends_on:
+      pangan-postgres:
+        condition: service_healthy
 
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change
@@ -424,3 +438,4 @@ volumes:
   pangan-postgres-data:
   pgadmin-data:
   minio-data:
+  metabase_data:
